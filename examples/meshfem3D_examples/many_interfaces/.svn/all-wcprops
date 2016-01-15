@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cig/!svn/ver/21809/seismo/3D/SPECFEM3D/trunk/examples/meshfem3D_examples/many_interfaces
+END
+go_process_pbs.bash
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cig/!svn/ver/20921/seismo/3D/SPECFEM3D/trunk/examples/meshfem3D_examples/many_interfaces/go_process_pbs.bash
+END
+process.sh
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cig/!svn/ver/20921/seismo/3D/SPECFEM3D/trunk/examples/meshfem3D_examples/many_interfaces/process.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cig/!svn/ver/20923/seismo/3D/SPECFEM3D/trunk/examples/meshfem3D_examples/many_interfaces/README
+END

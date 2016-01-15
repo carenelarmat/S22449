@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cig/!svn/ver/22427/seismo/3D/SPECFEM3D/trunk/src/generate_databases
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cig/!svn/ver/21250/seismo/3D/SPECFEM3D/trunk/src/generate_databases/Makefile.in
+END
+read_partition_files.f90
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cig/!svn/ver/22401/seismo/3D/SPECFEM3D/trunk/src/generate_databases/read_partition_files.f90
+END
+model_ipati.f90
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cig/!svn/ver/20674/seismo/3D/SPECFEM3D/trunk/src/generate_databases/model_ipati.f90
+END
+program_generate_databases.f90
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cig/!svn/ver/20488/seismo/3D/SPECFEM3D/trunk/src/generate_databases/program_generate_databases.f90
+END
+calc_jacobian.f90
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cig/!svn/ver/20957/seismo/3D/SPECFEM3D/trunk/src/generate_databases/calc_jacobian.f90
+END
+fault_generate_databases.f90
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cig/!svn/ver/21855/seismo/3D/SPECFEM3D/trunk/src/generate_databases/fault_generate_databases.f90
+END
+model_1d_cascadia.f90
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cig/!svn/ver/21855/seismo/3D/SPECFEM3D/trunk/src/generate_databases/model_1d_cascadia.f90
+END
+get_model.f90
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cig/!svn/ver/22427/seismo/3D/SPECFEM3D/trunk/src/generate_databases/get_model.f90
+END
+generate_databases_par.f90
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cig/!svn/ver/22200/seismo/3D/SPECFEM3D/trunk/src/generate_databases/generate_databases_par.f90
+END
+model_default.f90
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cig/!svn/ver/22427/seismo/3D/SPECFEM3D/trunk/src/generate_databases/model_default.f90
+END
+create_regions_mesh.f90
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cig/!svn/ver/22427/seismo/3D/SPECFEM3D/trunk/src/generate_databases/create_regions_mesh.f90
+END
+model_salton_trough.f90
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cig/!svn/ver/20488/seismo/3D/SPECFEM3D/trunk/src/generate_databases/model_salton_trough.f90
+END
+finalize_databases.f90
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cig/!svn/ver/21695/seismo/3D/SPECFEM3D/trunk/src/generate_databases/finalize_databases.f90
+END
+model_tomography.f90
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cig/!svn/ver/21855/seismo/3D/SPECFEM3D/trunk/src/generate_databases/model_tomography.f90
+END
+get_coupling_surfaces.f90
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cig/!svn/ver/20920/seismo/3D/SPECFEM3D/trunk/src/generate_databases/get_coupling_surfaces.f90
+END
+create_mass_matrices.f90
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cig/!svn/ver/22200/seismo/3D/SPECFEM3D/trunk/src/generate_databases/create_mass_matrices.f90
+END
+memory_eval.f90
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cig/!svn/ver/21856/seismo/3D/SPECFEM3D/trunk/src/generate_databases/memory_eval.f90
+END
+setup_color_perm.f90
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cig/!svn/ver/21130/seismo/3D/SPECFEM3D/trunk/src/generate_databases/setup_color_perm.f90
+END
+get_MPI.f90
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cig/!svn/ver/20957/seismo/3D/SPECFEM3D/trunk/src/generate_databases/get_MPI.f90
+END
+model_aniso.f90
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cig/!svn/ver/20488/seismo/3D/SPECFEM3D/trunk/src/generate_databases/model_aniso.f90
+END
+tomography_par.f90
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cig/!svn/ver/21021/seismo/3D/SPECFEM3D/trunk/src/generate_databases/tomography_par.f90
+END
+model_gll.f90
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cig/!svn/ver/21803/seismo/3D/SPECFEM3D/trunk/src/generate_databases/model_gll.f90
+END
+get_global.f90
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cig/!svn/ver/21479/seismo/3D/SPECFEM3D/trunk/src/generate_databases/get_global.f90
+END
+get_perm_color.f90
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cig/!svn/ver/20488/seismo/3D/SPECFEM3D/trunk/src/generate_databases/get_perm_color.f90
+END
+generate_databases.f90
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cig/!svn/ver/22134/seismo/3D/SPECFEM3D/trunk/src/generate_databases/generate_databases.f90
+END
+model_1d_socal.f90
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cig/!svn/ver/20674/seismo/3D/SPECFEM3D/trunk/src/generate_databases/model_1d_socal.f90
+END
+model_1d_prem.f90
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cig/!svn/ver/21855/seismo/3D/SPECFEM3D/trunk/src/generate_databases/model_1d_prem.f90
+END
+get_absorbing_boundary.f90
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cig/!svn/ver/22417/seismo/3D/SPECFEM3D/trunk/src/generate_databases/get_absorbing_boundary.f90
+END
+save_arrays_solver.f90
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cig/!svn/ver/22417/seismo/3D/SPECFEM3D/trunk/src/generate_databases/save_arrays_solver.f90
+END
+setup_mesh.f90
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cig/!svn/ver/22417/seismo/3D/SPECFEM3D/trunk/src/generate_databases/setup_mesh.f90
+END
+pml_set_local_dampingcoeff.f90
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cig/!svn/ver/22130/seismo/3D/SPECFEM3D/trunk/src/generate_databases/pml_set_local_dampingcoeff.f90
+END
+model_external_values.f90
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cig/!svn/ver/21822/seismo/3D/SPECFEM3D/trunk/src/generate_databases/model_external_values.f90
+END

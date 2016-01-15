@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/source_models/convert_finite_sources
+END
+convert_CMT_psmeca_format.f90
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/source_models/convert_finite_sources/convert_CMT_psmeca_format.f90
+END
+convert_fault_plane_Aagaard.f90
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/source_models/convert_finite_sources/convert_fault_plane_Aagaard.f90
+END
+convert_Wald_CMTSOLUTION_Northridge.f90
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/source_models/convert_finite_sources/convert_Wald_CMTSOLUTION_Northridge.f90
+END
+convert_ASCII_tsurf_to_CMTSOLUTION.f90
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/source_models/convert_finite_sources/convert_ASCII_tsurf_to_CMTSOLUTION.f90
+END

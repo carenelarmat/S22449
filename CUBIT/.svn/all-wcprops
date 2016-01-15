@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/cig/!svn/ver/22449/seismo/3D/SPECFEM3D/trunk/CUBIT
+END
+functions.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cig/!svn/ver/21108/seismo/3D/SPECFEM3D/trunk/CUBIT/functions.py
+END
+absorbing_boundary.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cig/!svn/ver/21108/seismo/3D/SPECFEM3D/trunk/CUBIT/absorbing_boundary.py
+END
+boundary_definition.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/CUBIT/boundary_definition.py
+END
+save_fault_nodes_elements.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cig/!svn/ver/21108/seismo/3D/SPECFEM3D/trunk/CUBIT/save_fault_nodes_elements.py
+END
+run_boundary_definition.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/CUBIT/run_boundary_definition.py
+END
+cubit2specfem3d.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cig/!svn/ver/22449/seismo/3D/SPECFEM3D/trunk/CUBIT/cubit2specfem3d.py
+END
+run_cubit2specfem3d.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/CUBIT/run_cubit2specfem3d.py
+END

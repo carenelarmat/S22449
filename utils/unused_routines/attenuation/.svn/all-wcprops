@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cig/!svn/ver/17504/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/attenuation
+END
+attenuation_new_solver.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cig/!svn/ver/17504/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/attenuation/attenuation_new_solver.c
+END
+makefile.csh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cig/!svn/ver/17504/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/attenuation/makefile.csh
+END

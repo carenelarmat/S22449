@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cig/!svn/ver/20873/seismo/3D/SPECFEM3D/trunk/DATA/meshfem3D_files
+END
+topo.dat
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cig/!svn/ver/20869/seismo/3D/SPECFEM3D/trunk/DATA/meshfem3D_files/topo.dat
+END
+interfaces.dat
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cig/!svn/ver/20869/seismo/3D/SPECFEM3D/trunk/DATA/meshfem3D_files/interfaces.dat
+END
+Mesh_Par_file
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cig/!svn/ver/20873/seismo/3D/SPECFEM3D/trunk/DATA/meshfem3D_files/Mesh_Par_file
+END

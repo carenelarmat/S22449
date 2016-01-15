@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cig/!svn/ver/18084/seismo/3D/SPECFEM3D/trunk/examples/waterlayered_halfspace/REF_SEIS
+END
+X10-30.HXZ.gnuplot
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cig/!svn/ver/17523/seismo/3D/SPECFEM3D/trunk/examples/waterlayered_halfspace/REF_SEIS/X10-30.HXZ.gnuplot
+END
+X10-30.HXZ.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cig/!svn/ver/18084/seismo/3D/SPECFEM3D/trunk/examples/waterlayered_halfspace/REF_SEIS/X10-30.HXZ.pdf
+END
+X10.DB.HXZ.sema
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cig/!svn/ver/18084/seismo/3D/SPECFEM3D/trunk/examples/waterlayered_halfspace/REF_SEIS/X10.DB.HXZ.sema
+END
+X20.DB.HXZ.sema
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cig/!svn/ver/18084/seismo/3D/SPECFEM3D/trunk/examples/waterlayered_halfspace/REF_SEIS/X20.DB.HXZ.sema
+END
+X30.DB.HXZ.sema
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cig/!svn/ver/18084/seismo/3D/SPECFEM3D/trunk/examples/waterlayered_halfspace/REF_SEIS/X30.DB.HXZ.sema
+END
+X10.DB.HXZ.semd
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cig/!svn/ver/18084/seismo/3D/SPECFEM3D/trunk/examples/waterlayered_halfspace/REF_SEIS/X10.DB.HXZ.semd
+END
+X20.DB.HXZ.semd
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cig/!svn/ver/18084/seismo/3D/SPECFEM3D/trunk/examples/waterlayered_halfspace/REF_SEIS/X20.DB.HXZ.semd
+END
+X30.DB.HXZ.semd
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cig/!svn/ver/18084/seismo/3D/SPECFEM3D/trunk/examples/waterlayered_halfspace/REF_SEIS/X30.DB.HXZ.semd
+END

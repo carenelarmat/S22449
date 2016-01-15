@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/Cluster/lsf/remap_database
+END
+remap.bash
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/Cluster/lsf/remap_database/remap.bash
+END
+old_machines
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/Cluster/lsf/remap_database/old_machines
+END
+remap_database.f90
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/Cluster/lsf/remap_database/remap_database.f90
+END
+compile
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/Cluster/lsf/remap_database/compile
+END
+run_lsf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/Cluster/lsf/remap_database/run_lsf
+END
+exit_mpi.f90
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/Cluster/lsf/remap_database/exit_mpi.f90
+END

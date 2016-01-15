@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/homogeneous_halfspace_HEX8_elastic_absorbing_CPML_6sides
+END
+here_are_the_thicknesses_to_use_to_define_the_CPML_layers.txt
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/homogeneous_halfspace_HEX8_elastic_absorbing_CPML_6sides/here_are_the_thicknesses_to_use_to_define_the_CPML_layers.txt
+END
+slices.txt
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/homogeneous_halfspace_HEX8_elastic_absorbing_CPML_6sides/slices.txt
+END
+plotall_comparison_seismograms.gnu
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/homogeneous_halfspace_HEX8_elastic_absorbing_CPML_6sides/plotall_comparison_seismograms.gnu
+END
+boundary_definition.py
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/homogeneous_halfspace_HEX8_elastic_absorbing_CPML_6sides/boundary_definition.py
+END
+HOWTO_run_this_example.txt
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/homogeneous_halfspace_HEX8_elastic_absorbing_CPML_6sides/HOWTO_run_this_example.txt
+END
+this_regular_mesh_contains_36x36x16_elements.txt
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/homogeneous_halfspace_HEX8_elastic_absorbing_CPML_6sides/this_regular_mesh_contains_36x36x16_elements.txt
+END
+block_mesh-anisotropic.py
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/homogeneous_halfspace_HEX8_elastic_absorbing_CPML_6sides/block_mesh-anisotropic.py
+END
+process.sh
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/homogeneous_halfspace_HEX8_elastic_absorbing_CPML_6sides/process.sh
+END
+cubit2specfem3d.py
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/homogeneous_halfspace_HEX8_elastic_absorbing_CPML_6sides/cubit2specfem3d.py
+END
+picture_of_this_mesh_with_CPML_flags_in_colors.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/homogeneous_halfspace_HEX8_elastic_absorbing_CPML_6sides/picture_of_this_mesh_with_CPML_flags_in_colors.jpg
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/homogeneous_halfspace_HEX8_elastic_absorbing_CPML_6sides/README
+END
+README_kernel
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/homogeneous_halfspace_HEX8_elastic_absorbing_CPML_6sides/README_kernel
+END
+block_mesh.py
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/homogeneous_halfspace_HEX8_elastic_absorbing_CPML_6sides/block_mesh.py
+END
+picture_of_this_homogeneous_regular_mesh.png
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/homogeneous_halfspace_HEX8_elastic_absorbing_CPML_6sides/picture_of_this_homogeneous_regular_mesh.png
+END

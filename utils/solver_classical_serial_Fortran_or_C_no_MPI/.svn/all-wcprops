@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cig/!svn/ver/20644/seismo/3D/SPECFEM3D/trunk/utils/solver_classical_serial_Fortran_or_C_no_MPI
+END
+plotall.gnu
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cig/!svn/ver/20198/seismo/3D/SPECFEM3D/trunk/utils/solver_classical_serial_Fortran_or_C_no_MPI/plotall.gnu
+END
+constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cig/!svn/ver/20198/seismo/3D/SPECFEM3D/trunk/utils/solver_classical_serial_Fortran_or_C_no_MPI/constants.h
+END
+make_all_C.csh
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cig/!svn/ver/20198/seismo/3D/SPECFEM3D/trunk/utils/solver_classical_serial_Fortran_or_C_no_MPI/make_all_C.csh
+END
+read_arrays_solver.f90
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/cig/!svn/ver/20198/seismo/3D/SPECFEM3D/trunk/utils/solver_classical_serial_Fortran_or_C_no_MPI/read_arrays_solver.f90
+END
+serial_specfem3D_double.c
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/cig/!svn/ver/20198/seismo/3D/SPECFEM3D/trunk/utils/solver_classical_serial_Fortran_or_C_no_MPI/serial_specfem3D_double.c
+END
+make_all_Fortran_normal.csh
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/cig/!svn/ver/20198/seismo/3D/SPECFEM3D/trunk/utils/solver_classical_serial_Fortran_or_C_no_MPI/make_all_Fortran_normal.csh
+END
+serial_specfem3D_inlined_v03_is_the_fastest_no_more_function_calls.f90
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/cig/!svn/ver/20198/seismo/3D/SPECFEM3D/trunk/utils/solver_classical_serial_Fortran_or_C_no_MPI/serial_specfem3D_inlined_v03_is_the_fastest_no_more_function_calls.f90
+END
+make_all_Fortran_fastest.csh
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/cig/!svn/ver/20198/seismo/3D/SPECFEM3D/trunk/utils/solver_classical_serial_Fortran_or_C_no_MPI/make_all_Fortran_fastest.csh
+END
+serial_specfem3D_no_Deville.f90
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/cig/!svn/ver/20198/seismo/3D/SPECFEM3D/trunk/utils/solver_classical_serial_Fortran_or_C_no_MPI/serial_specfem3D_no_Deville.f90
+END
+serial_specfem3D_single_with_Deville.c
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/cig/!svn/ver/20198/seismo/3D/SPECFEM3D/trunk/utils/solver_classical_serial_Fortran_or_C_no_MPI/serial_specfem3D_single_with_Deville.c
+END
+serial_specfem3D_single_no_Deville.c
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/cig/!svn/ver/20198/seismo/3D/SPECFEM3D/trunk/utils/solver_classical_serial_Fortran_or_C_no_MPI/serial_specfem3D_single_no_Deville.c
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cig/!svn/ver/17504/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/Sieh_1857_digitized_slip_map
+END
+slip_sieh_1857_extracted.txt.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/cig/!svn/ver/17504/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/Sieh_1857_digitized_slip_map/slip_sieh_1857_extracted.txt.bz2
+END
+raw_data_andreas_1857.txt
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/cig/!svn/ver/17504/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/Sieh_1857_digitized_slip_map/raw_data_andreas_1857.txt
+END
+sieh_1978_curve_final.pnm.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cig/!svn/ver/17504/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/Sieh_1857_digitized_slip_map/sieh_1978_curve_final.pnm.bz2
+END
+extract_image_info_Sieh_1978.f90
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/cig/!svn/ver/17504/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/Sieh_1857_digitized_slip_map/extract_image_info_Sieh_1978.f90
+END
+slip_sieh_1857_extracted.txt
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/cig/!svn/ver/17504/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/Sieh_1857_digitized_slip_map/slip_sieh_1857_extracted.txt
+END
+sieh_1978_curve_final.tif.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cig/!svn/ver/17504/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/Sieh_1857_digitized_slip_map/sieh_1978_curve_final.tif.bz2
+END
+mean_value_slip_Sieh_1857.txt
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cig/!svn/ver/17504/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/Sieh_1857_digitized_slip_map/mean_value_slip_Sieh_1857.txt
+END

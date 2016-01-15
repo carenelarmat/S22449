@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cig/!svn/ver/21809/seismo/3D/SPECFEM3D/trunk/examples/BENCHMARK_CLAERBOUT_ADJOINT/ELASTIC/DATA
+END
+CMTSOLUTION
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cig/!svn/ver/20923/seismo/3D/SPECFEM3D/trunk/examples/BENCHMARK_CLAERBOUT_ADJOINT/ELASTIC/DATA/CMTSOLUTION
+END
+Par_file
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cig/!svn/ver/21809/seismo/3D/SPECFEM3D/trunk/examples/BENCHMARK_CLAERBOUT_ADJOINT/ELASTIC/DATA/Par_file
+END
+STATIONS
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cig/!svn/ver/20923/seismo/3D/SPECFEM3D/trunk/examples/BENCHMARK_CLAERBOUT_ADJOINT/ELASTIC/DATA/STATIONS
+END
+FORCESOLUTION
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cig/!svn/ver/20923/seismo/3D/SPECFEM3D/trunk/examples/BENCHMARK_CLAERBOUT_ADJOINT/ELASTIC/DATA/FORCESOLUTION
+END
+STATIONS_ADJOINT
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/cig/!svn/ver/20923/seismo/3D/SPECFEM3D/trunk/examples/BENCHMARK_CLAERBOUT_ADJOINT/ELASTIC/DATA/STATIONS_ADJOINT
+END

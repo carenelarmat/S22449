@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cig/!svn/ver/17454/seismo/3D/SPECFEM3D/trunk/examples/noise_tomography/NOISE_TOMOGRAPHY
+END
+S_squared
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cig/!svn/ver/17454/seismo/3D/SPECFEM3D/trunk/examples/noise_tomography/NOISE_TOMOGRAPHY/S_squared
+END
+irec_master_noise_contribution1
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/cig/!svn/ver/17454/seismo/3D/SPECFEM3D/trunk/examples/noise_tomography/NOISE_TOMOGRAPHY/irec_master_noise_contribution1
+END
+irec_master_noise_contribution2
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/cig/!svn/ver/17454/seismo/3D/SPECFEM3D/trunk/examples/noise_tomography/NOISE_TOMOGRAPHY/irec_master_noise_contribution2
+END
+nu_master
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cig/!svn/ver/17454/seismo/3D/SPECFEM3D/trunk/examples/noise_tomography/NOISE_TOMOGRAPHY/nu_master
+END

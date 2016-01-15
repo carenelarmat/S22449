@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/source_models
+END
+stations_info_Northridge.txt
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/source_models/stations_info_Northridge.txt
+END
+list_stations_Dave_Wald_names.txt
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/source_models/list_stations_Dave_Wald_names.txt
+END
+old_Par_file_Northridge_196_sources
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/source_models/old_Par_file_Northridge_196_sources
+END
+slip_model_Wald_1996_Northridge.txt
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/source_models/slip_model_Wald_1996_Northridge.txt
+END
+readme_external_mesh
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/source_models/readme_external_mesh
+END
+old_Par_file_1857_new
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/source_models/old_Par_file_1857_new
+END

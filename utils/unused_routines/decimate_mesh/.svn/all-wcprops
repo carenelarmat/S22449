@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cig/!svn/ver/20472/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/decimate_mesh
+END
+mat
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/decimate_mesh/mat
+END
+nodes_coords
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/decimate_mesh/nodes_coords
+END
+constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cig/!svn/ver/20472/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/decimate_mesh/constants.h
+END
+gen_mat.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/decimate_mesh/gen_mat.sh
+END
+decimate_mesh.f90
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/decimate_mesh/decimate_mesh.f90
+END
+gen_all.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/decimate_mesh/gen_all.sh
+END
+mesh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/decimate_mesh/mesh
+END

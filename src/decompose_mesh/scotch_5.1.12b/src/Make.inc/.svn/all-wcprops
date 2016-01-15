@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/Make.inc
+END
+Makefile.inc.mips_sgi_irix6
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/Make.inc/Makefile.inc.mips_sgi_irix6
+END
+Makefile.inc.power3_ibm_aix5
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/Make.inc/Makefile.inc.power3_ibm_aix5
+END
+Makefile.inc.x86-64_pc_linux2.icc
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/Make.inc/Makefile.inc.x86-64_pc_linux2.icc
+END
+Makefile.inc.power6_ibm_aix5
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/Make.inc/Makefile.inc.power6_ibm_aix5
+END
+Makefile.inc.x86-64_pc_linux2
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/Make.inc/Makefile.inc.x86-64_pc_linux2
+END
+Makefile.inc.i686_sun_solaris5
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/Make.inc/Makefile.inc.i686_sun_solaris5
+END
+Makefile.inc.i686_pc_linux2.shlib.debug
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/Make.inc/Makefile.inc.i686_pc_linux2.shlib.debug
+END
+Makefile.inc.i686_pc_linux2.debug
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/Make.inc/Makefile.inc.i686_pc_linux2.debug
+END
+Makefile.inc.i686_pc_linux2.nothreads
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/Make.inc/Makefile.inc.i686_pc_linux2.nothreads
+END
+Makefile.inc.pa11_hp_ux10
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/Make.inc/Makefile.inc.pa11_hp_ux10
+END
+Makefile.inc.x86-64_cray-xt4_linux2
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/Make.inc/Makefile.inc.x86-64_cray-xt4_linux2
+END
+Makefile.inc.i686_mac_darwin8
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/Make.inc/Makefile.inc.i686_mac_darwin8
+END
+Makefile.inc.i686_pc_freebsd
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/Make.inc/Makefile.inc.i686_pc_freebsd
+END
+Makefile.inc.i686_mac_darwin10.icc
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/Make.inc/Makefile.inc.i686_mac_darwin10.icc
+END
+Makefile.inc.i686_pc_linux2.shlib
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/Make.inc/Makefile.inc.i686_pc_linux2.shlib
+END
+Makefile.inc.i686_pc_linux2
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/Make.inc/Makefile.inc.i686_pc_linux2
+END
+Makefile.inc.x86-64_pc_linux2.icc.debug
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/Make.inc/Makefile.inc.x86-64_pc_linux2.icc.debug
+END
+Makefile.inc.i686_pc_linux2.c99
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/Make.inc/Makefile.inc.i686_pc_linux2.c99
+END
+Makefile.inc.i686_pc_linux2.prof
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/Make.inc/Makefile.inc.i686_pc_linux2.prof
+END
+Makefile.inc.i686_pc_mingw32
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/Make.inc/Makefile.inc.i686_pc_mingw32
+END
+Makefile.inc.x86-64_pc_freebsd
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/Make.inc/Makefile.inc.x86-64_pc_freebsd
+END
+Makefile.inc.alpha_dec_osf1
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/Make.inc/Makefile.inc.alpha_dec_osf1
+END
+Makefile.inc.ppc450_ibm_bgp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/Make.inc/Makefile.inc.ppc450_ibm_bgp
+END

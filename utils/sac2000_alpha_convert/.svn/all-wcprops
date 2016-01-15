@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/sac2000_alpha_convert
+END
+convert_all_sac_ascii.csh
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/sac2000_alpha_convert/convert_all_sac_ascii.csh
+END
+convert_files_sacalpha_ascii.f90
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/sac2000_alpha_convert/convert_files_sacalpha_ascii.f90
+END
+script_filter_sac_all.csh
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/sac2000_alpha_convert/script_filter_sac_all.csh
+END
+create_gnuplot_script_modif.csh
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/sac2000_alpha_convert/create_gnuplot_script_modif.csh
+END

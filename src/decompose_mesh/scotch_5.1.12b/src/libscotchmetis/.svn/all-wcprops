@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/libscotchmetis
+END
+parmetis_dgraph_part.c
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/libscotchmetis/parmetis_dgraph_part.c
+END
+metis_graph_order_f.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/libscotchmetis/metis_graph_order_f.c
+END
+parmetis_dgraph_order.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/libscotchmetis/parmetis_dgraph_order.c
+END
+parmetis_dgraph_part_f.c
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/libscotchmetis/parmetis_dgraph_part_f.c
+END
+metis.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/libscotchmetis/metis.h
+END
+metis_graph_part.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/libscotchmetis/metis_graph_part.c
+END
+parmetis.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/libscotchmetis/parmetis.h
+END
+parmetis_dgraph_order_f.c
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/libscotchmetis/parmetis_dgraph_order_f.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/libscotchmetis/Makefile
+END
+metis_graph_order.c
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/libscotchmetis/metis_graph_order.c
+END
+metis_graph_part_f.c
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/libscotchmetis/metis_graph_part_f.c
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/tomographic_model
+END
+boundary_definition.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/tomographic_model/boundary_definition.py
+END
+create_tomography_model_file.sh
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/examples/tomographic_model/create_tomography_model_file.sh
+END
+process.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cig/!svn/ver/20958/seismo/3D/SPECFEM3D/trunk/examples/tomographic_model/process.sh
+END
+cubit2specfem3d.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/tomographic_model/cubit2specfem3d.py
+END
+tomoblock_mesh.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/examples/tomographic_model/tomoblock_mesh.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cig/!svn/ver/20923/seismo/3D/SPECFEM3D/trunk/examples/tomographic_model/README
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/cig/!svn/ver/22029/seismo/3D/SPECFEM3D/trunk/utils/Cluster
+END
+go_solver
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cig/!svn/ver/20872/seismo/3D/SPECFEM3D/trunk/utils/Cluster/go_solver
+END
+go_generate_databases
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cig/!svn/ver/20873/seismo/3D/SPECFEM3D/trunk/utils/Cluster/go_generate_databases
+END
+run3d.csh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cig/!svn/ver/20873/seismo/3D/SPECFEM3D/trunk/utils/Cluster/run3d.csh
+END
+collect_seismos.in
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/Cluster/collect_seismos.in
+END

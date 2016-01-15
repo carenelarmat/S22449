@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cig/!svn/ver/21822/seismo/3D/SPECFEM3D/trunk/examples/Mount_StHelens/MESH-default
+END
+materials_file
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cig/!svn/ver/20776/seismo/3D/SPECFEM3D/trunk/examples/Mount_StHelens/MESH-default/materials_file
+END
+nodes_coords_file
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cig/!svn/ver/20776/seismo/3D/SPECFEM3D/trunk/examples/Mount_StHelens/MESH-default/nodes_coords_file
+END
+absorbing_surface_file_bottom
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/cig/!svn/ver/20776/seismo/3D/SPECFEM3D/trunk/examples/Mount_StHelens/MESH-default/absorbing_surface_file_bottom
+END
+absorbing_surface_file_xmin
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cig/!svn/ver/20776/seismo/3D/SPECFEM3D/trunk/examples/Mount_StHelens/MESH-default/absorbing_surface_file_xmin
+END
+absorbing_surface_file_ymin
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cig/!svn/ver/20776/seismo/3D/SPECFEM3D/trunk/examples/Mount_StHelens/MESH-default/absorbing_surface_file_ymin
+END
+absorbing_surface_file_xmax
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cig/!svn/ver/20776/seismo/3D/SPECFEM3D/trunk/examples/Mount_StHelens/MESH-default/absorbing_surface_file_xmax
+END
+absorbing_surface_file_ymax
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cig/!svn/ver/20776/seismo/3D/SPECFEM3D/trunk/examples/Mount_StHelens/MESH-default/absorbing_surface_file_ymax
+END
+mesh_file
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cig/!svn/ver/20776/seismo/3D/SPECFEM3D/trunk/examples/Mount_StHelens/MESH-default/mesh_file
+END
+nummaterial_velocity_file
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cig/!svn/ver/21822/seismo/3D/SPECFEM3D/trunk/examples/Mount_StHelens/MESH-default/nummaterial_velocity_file
+END
+free_or_absorbing_surface_file_zmax
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/cig/!svn/ver/21818/seismo/3D/SPECFEM3D/trunk/examples/Mount_StHelens/MESH-default/free_or_absorbing_surface_file_zmax
+END

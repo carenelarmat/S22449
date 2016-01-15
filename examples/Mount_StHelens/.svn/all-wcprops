@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/Mount_StHelens
+END
+boundary_definition.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/Mount_StHelens/boundary_definition.py
+END
+read_topo.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cig/!svn/ver/19608/seismo/3D/SPECFEM3D/trunk/examples/Mount_StHelens/read_topo.py
+END
+ptopo.mean.utm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cig/!svn/ver/19254/seismo/3D/SPECFEM3D/trunk/examples/Mount_StHelens/ptopo.mean.utm
+END
+mesh_mount.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cig/!svn/ver/19608/seismo/3D/SPECFEM3D/trunk/examples/Mount_StHelens/mesh_mount.py
+END
+mesh_mount_stl.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cig/!svn/ver/19608/seismo/3D/SPECFEM3D/trunk/examples/Mount_StHelens/mesh_mount_stl.py
+END
+process.sh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cig/!svn/ver/20958/seismo/3D/SPECFEM3D/trunk/examples/Mount_StHelens/process.sh
+END
+cubit2specfem3d.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/Mount_StHelens/cubit2specfem3d.py
+END
+convert_lonlat2utm.pl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cig/!svn/ver/19254/seismo/3D/SPECFEM3D/trunk/examples/Mount_StHelens/convert_lonlat2utm.pl
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cig/!svn/ver/20872/seismo/3D/SPECFEM3D/trunk/examples/Mount_StHelens/README
+END

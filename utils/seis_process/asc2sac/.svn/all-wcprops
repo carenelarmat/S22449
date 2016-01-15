@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cig/!svn/ver/17495/seismo/3D/SPECFEM3D/trunk/utils/seis_process/asc2sac
+END
+ascfile.f90
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cig/!svn/ver/17495/seismo/3D/SPECFEM3D/trunk/utils/seis_process/asc2sac/ascfile.f90
+END
+compile
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cig/!svn/ver/17483/seismo/3D/SPECFEM3D/trunk/utils/seis_process/asc2sac/compile
+END
+asc2sac.f90
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cig/!svn/ver/17483/seismo/3D/SPECFEM3D/trunk/utils/seis_process/asc2sac/asc2sac.f90
+END

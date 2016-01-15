@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/cig/!svn/ver/18179/seismo/3D/SPECFEM3D/trunk/utils/lib
+END
+rw_ascfile_f.f90
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cig/!svn/ver/18179/seismo/3D/SPECFEM3D/trunk/utils/lib/rw_ascfile_f.f90
+END
+GMT_PLOT_SC.pm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/lib/GMT_PLOT_SC.pm
+END
+convolve_stf.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cig/!svn/ver/17495/seismo/3D/SPECFEM3D/trunk/utils/lib/convolve_stf.c
+END
+utm_geo.f90
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cig/!svn/ver/17967/seismo/3D/SPECFEM3D/trunk/utils/lib/utm_geo.f90
+END
+sph2utm.f90
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cig/!svn/ver/17967/seismo/3D/SPECFEM3D/trunk/utils/lib/sph2utm.f90
+END
+DELAZ5.pm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/lib/DELAZ5.pm
+END
+utm2sph.f90
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cig/!svn/ver/17967/seismo/3D/SPECFEM3D/trunk/utils/lib/utm2sph.f90
+END
+asc2sac.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cig/!svn/ver/17495/seismo/3D/SPECFEM3D/trunk/utils/lib/asc2sac.c
+END
+GMT_PLOT.pm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/lib/GMT_PLOT.pm
+END
+SAC_TOOLS.pm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/lib/SAC_TOOLS.pm
+END
+rw_ascfile_c.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cig/!svn/ver/18179/seismo/3D/SPECFEM3D/trunk/utils/lib/rw_ascfile_c.c
+END
+TrimWhitespace.pm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/lib/TrimWhitespace.pm
+END
+rw_fortran_wrapper.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cig/!svn/ver/18179/seismo/3D/SPECFEM3D/trunk/utils/lib/rw_fortran_wrapper.c
+END
+SACLST.pm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/lib/SACLST.pm
+END
+drw_ascfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cig/!svn/ver/18179/seismo/3D/SPECFEM3D/trunk/utils/lib/drw_ascfile.h
+END
+FILE_TOOLS.pm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/lib/FILE_TOOLS.pm
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/lib/Makefile
+END
+CMT_TOOLS.pm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/lib/CMT_TOOLS.pm
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cig/!svn/ver/20658/seismo/3D/SPECFEM3D/trunk/utils/Cubit_or_Gmsh_export
+END
+gmsh2specfem3d.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cig/!svn/ver/20658/seismo/3D/SPECFEM3D/trunk/utils/Cubit_or_Gmsh_export/gmsh2specfem3d.py
+END
+boundary_definition.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cig/!svn/ver/20656/seismo/3D/SPECFEM3D/trunk/utils/Cubit_or_Gmsh_export/boundary_definition.py
+END
+cubit2specfem3d.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cig/!svn/ver/20656/seismo/3D/SPECFEM3D/trunk/utils/Cubit_or_Gmsh_export/cubit2specfem3d.py
+END

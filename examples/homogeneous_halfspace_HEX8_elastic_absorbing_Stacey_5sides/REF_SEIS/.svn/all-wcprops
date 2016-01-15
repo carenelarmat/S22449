@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/cig/!svn/ver/21853/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_absorbing_Stacey_5sides/REF_SEIS
+END
+X20.DB.BXZ.semd
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/cig/!svn/ver/21767/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_absorbing_Stacey_5sides/REF_SEIS/X20.DB.BXZ.semd
+END
+X30.DB.BXZ.semd
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/cig/!svn/ver/21767/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_absorbing_Stacey_5sides/REF_SEIS/X30.DB.BXZ.semd
+END
+X40.DB.BXZ.semd
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/cig/!svn/ver/21767/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_absorbing_Stacey_5sides/REF_SEIS/X40.DB.BXZ.semd
+END
+X50.DB.BXZ.semd
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/cig/!svn/ver/21767/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_absorbing_Stacey_5sides/REF_SEIS/X50.DB.BXZ.semd
+END
+plot_these_seismograms_with_gnuplot.gnu
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/cig/!svn/ver/21767/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_absorbing_Stacey_5sides/REF_SEIS/plot_these_seismograms_with_gnuplot.gnu
+END

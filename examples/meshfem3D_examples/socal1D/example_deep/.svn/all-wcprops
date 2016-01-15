@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cig/!svn/ver/20873/seismo/3D/SPECFEM3D/trunk/examples/meshfem3D_examples/socal1D/example_deep
+END
+honor60km_or_not.png
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/cig/!svn/ver/18217/seismo/3D/SPECFEM3D/trunk/examples/meshfem3D_examples/socal1D/example_deep/honor60km_or_not.png
+END
+interface0.dat
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cig/!svn/ver/18217/seismo/3D/SPECFEM3D/trunk/examples/meshfem3D_examples/socal1D/example_deep/interface0.dat
+END
+interfaces_deep.dat
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cig/!svn/ver/18217/seismo/3D/SPECFEM3D/trunk/examples/meshfem3D_examples/socal1D/example_deep/interfaces_deep.dat
+END
+Mesh_Par_file_deep
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/cig/!svn/ver/20873/seismo/3D/SPECFEM3D/trunk/examples/meshfem3D_examples/socal1D/example_deep/Mesh_Par_file_deep
+END
+interfaces_deep_honor60km.dat
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/cig/!svn/ver/18217/seismo/3D/SPECFEM3D/trunk/examples/meshfem3D_examples/socal1D/example_deep/interfaces_deep_honor60km.dat
+END
+Mesh_Par_file_deep_honor60km
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/cig/!svn/ver/20873/seismo/3D/SPECFEM3D/trunk/examples/meshfem3D_examples/socal1D/example_deep/Mesh_Par_file_deep_honor60km
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cig/!svn/ver/18217/seismo/3D/SPECFEM3D/trunk/examples/meshfem3D_examples/socal1D/example_deep/README
+END

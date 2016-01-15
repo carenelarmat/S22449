@@ -1,0 +1,49 @@
+10
+
+dir
+22449
+http://geodynamics.org/svn/cig/seismo/3D/SPECFEM3D/trunk/src
+http://geodynamics.org/svn/cig
+
+
+
+2013-06-28T21:05:25.327959Z
+22445
+elliott.sales.de.andrade
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+42e91aa9-f6fe-0310-9bd8-dd834c9eb30a
+
+generate_databases
+dir
+
+check_mesh_quality_CUBIT_Abaqus
+dir
+
+shared
+dir
+
+specfem3D
+dir
+
+decompose_mesh
+dir
+
+meshfem3D
+dir
+
+cuda
+dir
+

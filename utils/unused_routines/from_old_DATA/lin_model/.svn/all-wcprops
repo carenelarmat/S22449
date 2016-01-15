@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cig/!svn/ver/21518/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/lin_model
+END
+hauk-lin.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/lin_model/hauk-lin.pdf
+END
+Par_file
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cig/!svn/ver/21518/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/lin_model/Par_file
+END
+densify_hauksson_ori.f90
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/lin_model/densify_hauksson_ori.f90
+END
+compute_corners_new_hauksson.f90
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/lin_model/compute_corners_new_hauksson.f90
+END
+smooth_final_hauksson.f90
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/lin_model/smooth_final_hauksson.f90
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/lin_model/README
+END
+lin_final_grid_smooth.dat
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/lin_model/lin_final_grid_smooth.dat
+END
+constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/lin_model/constants.h
+END
+hauksson_tomo_model.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/lin_model/hauksson_tomo_model.m
+END
+regrid_hauksson_regular.f90
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/lin_model/regrid_hauksson_regular.f90
+END
+change_format_hauksson.f90
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/lin_model/change_format_hauksson.f90
+END
+hauksson_model.f90
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/lin_model/hauksson_model.f90
+END
+runall.csh
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/lin_model/runall.csh
+END
+lin_new_format.dat
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/lin_model/lin_new_format.dat
+END
+new_bounds.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/lin_model/new_bounds.pdf
+END
+header.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/lin_model/header.h
+END

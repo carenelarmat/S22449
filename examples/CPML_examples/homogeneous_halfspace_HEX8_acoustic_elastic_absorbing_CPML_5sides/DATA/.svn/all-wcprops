@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/homogeneous_halfspace_HEX8_acoustic_elastic_absorbing_CPML_5sides/DATA
+END
+CMTSOLUTION
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/homogeneous_halfspace_HEX8_acoustic_elastic_absorbing_CPML_5sides/DATA/CMTSOLUTION
+END
+Par_file
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/homogeneous_halfspace_HEX8_acoustic_elastic_absorbing_CPML_5sides/DATA/Par_file
+END
+STATIONS
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/homogeneous_halfspace_HEX8_acoustic_elastic_absorbing_CPML_5sides/DATA/STATIONS
+END
+FORCESOLUTION
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/homogeneous_halfspace_HEX8_acoustic_elastic_absorbing_CPML_5sides/DATA/FORCESOLUTION
+END
+STATIONS_ADJOINT
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/homogeneous_halfspace_HEX8_acoustic_elastic_absorbing_CPML_5sides/DATA/STATIONS_ADJOINT
+END

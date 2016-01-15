@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cig/!svn/ver/21809/seismo/3D/SPECFEM3D/trunk/examples/BENCHMARK_CLAERBOUT_ADJOINT/ACOUSTIC
+END
+postprocessing.f90
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cig/!svn/ver/20873/seismo/3D/SPECFEM3D/trunk/examples/BENCHMARK_CLAERBOUT_ADJOINT/ACOUSTIC/postprocessing.f90
+END
+run_inhomogeneous.bash
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cig/!svn/ver/20873/seismo/3D/SPECFEM3D/trunk/examples/BENCHMARK_CLAERBOUT_ADJOINT/ACOUSTIC/run_inhomogeneous.bash
+END
+adj_seismogram.f90
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cig/!svn/ver/20873/seismo/3D/SPECFEM3D/trunk/examples/BENCHMARK_CLAERBOUT_ADJOINT/ACOUSTIC/adj_seismogram.f90
+END
+write_seismograms.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/cig/!svn/ver/19148/seismo/3D/SPECFEM3D/trunk/examples/BENCHMARK_CLAERBOUT_ADJOINT/ACOUSTIC/write_seismograms.patch
+END
+random_model_generation.f90
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/cig/!svn/ver/20873/seismo/3D/SPECFEM3D/trunk/examples/BENCHMARK_CLAERBOUT_ADJOINT/ACOUSTIC/random_model_generation.f90
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cig/!svn/ver/18942/seismo/3D/SPECFEM3D/trunk/examples/BENCHMARK_CLAERBOUT_ADJOINT/ACOUSTIC/README
+END

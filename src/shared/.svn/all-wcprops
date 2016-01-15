@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/cig/!svn/ver/22445/seismo/3D/SPECFEM3D/trunk/src/shared
+END
+lagrange_poly.f90
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cig/!svn/ver/20488/seismo/3D/SPECFEM3D/trunk/src/shared/lagrange_poly.f90
+END
+get_shape2D.f90
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cig/!svn/ver/20942/seismo/3D/SPECFEM3D/trunk/src/shared/get_shape2D.f90
+END
+assemble_MPI_scalar.f90
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cig/!svn/ver/20488/seismo/3D/SPECFEM3D/trunk/src/shared/assemble_MPI_scalar.f90
+END
+create_movie_shakemap_AVS_DX_GMT.f90
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cig/!svn/ver/22445/seismo/3D/SPECFEM3D/trunk/src/shared/create_movie_shakemap_AVS_DX_GMT.f90
+END
+create_serial_name_database.f90
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cig/!svn/ver/20488/seismo/3D/SPECFEM3D/trunk/src/shared/create_serial_name_database.f90
+END
+recompute_jacobian.f90
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cig/!svn/ver/20942/seismo/3D/SPECFEM3D/trunk/src/shared/recompute_jacobian.f90
+END
+parallel.f90
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cig/!svn/ver/22137/seismo/3D/SPECFEM3D/trunk/src/shared/parallel.f90
+END
+get_force.f90
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cig/!svn/ver/21479/seismo/3D/SPECFEM3D/trunk/src/shared/get_force.f90
+END
+get_value_parameters.f90
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cig/!svn/ver/20488/seismo/3D/SPECFEM3D/trunk/src/shared/get_value_parameters.f90
+END
+convolve_source_timefunction.f90
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cig/!svn/ver/20488/seismo/3D/SPECFEM3D/trunk/src/shared/convolve_source_timefunction.f90
+END
+utm_geo.f90
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cig/!svn/ver/20488/seismo/3D/SPECFEM3D/trunk/src/shared/utm_geo.f90
+END
+define_derivation_matrices.f90
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cig/!svn/ver/20488/seismo/3D/SPECFEM3D/trunk/src/shared/define_derivation_matrices.f90
+END
+param_reader.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cig/!svn/ver/20488/seismo/3D/SPECFEM3D/trunk/src/shared/param_reader.c
+END
+write_VTK_data.f90
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cig/!svn/ver/22404/seismo/3D/SPECFEM3D/trunk/src/shared/write_VTK_data.f90
+END
+constants.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cig/!svn/ver/22136/seismo/3D/SPECFEM3D/trunk/src/shared/constants.h.in
+END
+read_parameter_file.f90
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cig/!svn/ver/22417/seismo/3D/SPECFEM3D/trunk/src/shared/read_parameter_file.f90
+END
+get_attenuation_model.f90
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cig/!svn/ver/21855/seismo/3D/SPECFEM3D/trunk/src/shared/get_attenuation_model.f90
+END
+hex_nodes.f90
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cig/!svn/ver/20942/seismo/3D/SPECFEM3D/trunk/src/shared/hex_nodes.f90
+END
+prepare_assemble_MPI.f90
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cig/!svn/ver/21855/seismo/3D/SPECFEM3D/trunk/src/shared/prepare_assemble_MPI.f90
+END
+exit_mpi.f90
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cig/!svn/ver/20644/seismo/3D/SPECFEM3D/trunk/src/shared/exit_mpi.f90
+END
+serial.f90
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cig/!svn/ver/22408/seismo/3D/SPECFEM3D/trunk/src/shared/serial.f90
+END
+sort_array_coordinates.f90
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cig/!svn/ver/20488/seismo/3D/SPECFEM3D/trunk/src/shared/sort_array_coordinates.f90
+END
+get_jacobian_boundaries.f90
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cig/!svn/ver/20942/seismo/3D/SPECFEM3D/trunk/src/shared/get_jacobian_boundaries.f90
+END
+detect_surface.f90
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cig/!svn/ver/21263/seismo/3D/SPECFEM3D/trunk/src/shared/detect_surface.f90
+END
+smooth_vol_data.f90
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cig/!svn/ver/21845/seismo/3D/SPECFEM3D/trunk/src/shared/smooth_vol_data.f90
+END
+get_cmt.f90
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cig/!svn/ver/20791/seismo/3D/SPECFEM3D/trunk/src/shared/get_cmt.f90
+END
+write_c_binary.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cig/!svn/ver/20574/seismo/3D/SPECFEM3D/trunk/src/shared/write_c_binary.c
+END
+combine_vol_data.f90
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cig/!svn/ver/22404/seismo/3D/SPECFEM3D/trunk/src/shared/combine_vol_data.f90
+END
+get_shape3D.f90
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cig/!svn/ver/20942/seismo/3D/SPECFEM3D/trunk/src/shared/get_shape3D.f90
+END
+create_name_database.f90
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cig/!svn/ver/20488/seismo/3D/SPECFEM3D/trunk/src/shared/create_name_database.f90
+END
+sum_kernels.f90
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cig/!svn/ver/21845/seismo/3D/SPECFEM3D/trunk/src/shared/sum_kernels.f90
+END
+precision.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cig/!svn/ver/20488/seismo/3D/SPECFEM3D/trunk/src/shared/precision.h.in
+END
+read_value_parameters.f90
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cig/!svn/ver/21479/seismo/3D/SPECFEM3D/trunk/src/shared/read_value_parameters.f90
+END
+netlib_specfun_erf.f90
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cig/!svn/ver/20488/seismo/3D/SPECFEM3D/trunk/src/shared/netlib_specfun_erf.f90
+END
+gll_library.f90
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cig/!svn/ver/22134/seismo/3D/SPECFEM3D/trunk/src/shared/gll_library.f90
+END
+read_topo_bathy_file.f90
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cig/!svn/ver/21855/seismo/3D/SPECFEM3D/trunk/src/shared/read_topo_bathy_file.f90
+END
+combine_surf_data.f90
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cig/!svn/ver/21260/seismo/3D/SPECFEM3D/trunk/src/shared/combine_surf_data.f90
+END
+force_ftz.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cig/!svn/ver/21479/seismo/3D/SPECFEM3D/trunk/src/shared/force_ftz.c
+END
+save_header_file.f90
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cig/!svn/ver/21695/seismo/3D/SPECFEM3D/trunk/src/shared/save_header_file.f90
+END
+get_element_face.f90
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cig/!svn/ver/20837/seismo/3D/SPECFEM3D/trunk/src/shared/get_element_face.f90
+END
+check_mesh_resolution.f90
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cig/!svn/ver/22417/seismo/3D/SPECFEM3D/trunk/src/shared/check_mesh_resolution.f90
+END

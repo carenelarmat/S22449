@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cig/!svn/ver/21862/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_no_absorbing/DATA
+END
+CMTSOLUTION
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/cig/!svn/ver/21767/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_no_absorbing/DATA/CMTSOLUTION
+END
+Par_file
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/cig/!svn/ver/21809/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_no_absorbing/DATA/Par_file
+END
+STATIONS
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/cig/!svn/ver/21853/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_no_absorbing/DATA/STATIONS
+END
+FORCESOLUTION
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/cig/!svn/ver/21862/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_no_absorbing/DATA/FORCESOLUTION
+END
+STATIONS_ADJOINT
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/cig/!svn/ver/21767/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_no_absorbing/DATA/STATIONS_ADJOINT
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cig/!svn/ver/17523/seismo/3D/SPECFEM3D/trunk/examples/tomographic_model/REF_SEIS
+END
+X50.DB.HXZ.semd
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cig/!svn/ver/17523/seismo/3D/SPECFEM3D/trunk/examples/tomographic_model/REF_SEIS/X50.DB.HXZ.semd
+END
+X1-50.HXZ.gnuplot
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cig/!svn/ver/17523/seismo/3D/SPECFEM3D/trunk/examples/tomographic_model/REF_SEIS/X1-50.HXZ.gnuplot
+END
+X1-50.HXZ.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cig/!svn/ver/17523/seismo/3D/SPECFEM3D/trunk/examples/tomographic_model/REF_SEIS/X1-50.HXZ.pdf
+END
+X1.DB.HXZ.semd
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cig/!svn/ver/17523/seismo/3D/SPECFEM3D/trunk/examples/tomographic_model/REF_SEIS/X1.DB.HXZ.semd
+END
+X10.DB.HXZ.semd
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cig/!svn/ver/17523/seismo/3D/SPECFEM3D/trunk/examples/tomographic_model/REF_SEIS/X10.DB.HXZ.semd
+END
+X20.DB.HXZ.semd
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cig/!svn/ver/17523/seismo/3D/SPECFEM3D/trunk/examples/tomographic_model/REF_SEIS/X20.DB.HXZ.semd
+END
+X30.DB.HXZ.semd
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cig/!svn/ver/17523/seismo/3D/SPECFEM3D/trunk/examples/tomographic_model/REF_SEIS/X30.DB.HXZ.semd
+END
+X40.DB.HXZ.semd
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cig/!svn/ver/17523/seismo/3D/SPECFEM3D/trunk/examples/tomographic_model/REF_SEIS/X40.DB.HXZ.semd
+END

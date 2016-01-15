@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cig/!svn/ver/21841/seismo/3D/SPECFEM3D/trunk/examples/noise_tomography
+END
+NOISE_TOMOGRAPHY.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cig/!svn/ver/20873/seismo/3D/SPECFEM3D/trunk/examples/noise_tomography/NOISE_TOMOGRAPHY.m
+END
+PetersonNoiseModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cig/!svn/ver/17454/seismo/3D/SPECFEM3D/trunk/examples/noise_tomography/PetersonNoiseModel.m
+END
+pre-processing.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cig/!svn/ver/20923/seismo/3D/SPECFEM3D/trunk/examples/noise_tomography/pre-processing.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cig/!svn/ver/20958/seismo/3D/SPECFEM3D/trunk/examples/noise_tomography/README
+END

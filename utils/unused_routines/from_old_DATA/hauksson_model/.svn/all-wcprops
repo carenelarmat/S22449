@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/hauksson_model
+END
+show_hauksson_regrid_dx.f90
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/hauksson_model/show_hauksson_regrid_dx.f90
+END
+visualize_hauksson_DX.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/hauksson_model/visualize_hauksson_DX.cfg
+END
+filter_white_spaces.f90
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/hauksson_model/filter_white_spaces.f90
+END
+densify_hauksson_ori.f90
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/hauksson_model/densify_hauksson_ori.f90
+END
+hauksson_new_format.dat
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/hauksson_model/hauksson_new_format.dat
+END
+compute_corners_new_hauksson.f90
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/hauksson_model/compute_corners_new_hauksson.f90
+END
+smooth_final_hauksson.f90
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/hauksson_model/smooth_final_hauksson.f90
+END
+show_hauksson_raw_dx.f90
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/hauksson_model/show_hauksson_raw_dx.f90
+END
+vel_15km_filter.dat
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/hauksson_model/vel_15km_filter.dat
+END
+vel.sc8196ord1_sc04.07qd.out_ori_hauksson_15km
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/hauksson_model/vel.sc8196ord1_sc04.07qd.out_ori_hauksson_15km
+END
+change_format_hauksson.f90
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/hauksson_model/change_format_hauksson.f90
+END
+regrid_hauksson_regular.f90
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/hauksson_model/regrid_hauksson_regular.f90
+END
+vel.q805h5d.out_ori_hauksson_10km
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/hauksson_model/vel.q805h5d.out_ori_hauksson_10km
+END
+visualize_hauksson_DX.net
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/hauksson_model/visualize_hauksson_DX.net
+END
+hauksson_LA_10km_vel.q805h5d.out
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/hauksson_model/hauksson_LA_10km_vel.q805h5d.out
+END
+runall.csh
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/hauksson_model/runall.csh
+END
+hauksson_final_grid_smooth.dat
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/hauksson_model/hauksson_final_grid_smooth.dat
+END
+hauksson_SoCal_15km_vel.sc8196ord1_sc04.07qd.out
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/hauksson_model/hauksson_SoCal_15km_vel.sc8196ord1_sc04.07qd.out
+END
+header.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/hauksson_model/header.h
+END

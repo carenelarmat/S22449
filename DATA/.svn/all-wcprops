@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/cig/!svn/ver/22314/seismo/3D/SPECFEM3D/trunk/DATA
+END
+CMTSOLUTION
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cig/!svn/ver/20869/seismo/3D/SPECFEM3D/trunk/DATA/CMTSOLUTION
+END
+Par_file
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/cig/!svn/ver/21809/seismo/3D/SPECFEM3D/trunk/DATA/Par_file
+END
+STATIONS
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/cig/!svn/ver/20869/seismo/3D/SPECFEM3D/trunk/DATA/STATIONS
+END
+FORCESOLUTION
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cig/!svn/ver/20869/seismo/3D/SPECFEM3D/trunk/DATA/FORCESOLUTION
+END

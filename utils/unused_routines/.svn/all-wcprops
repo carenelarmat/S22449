@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cig/!svn/ver/21855/seismo/3D/SPECFEM3D/trunk/utils/unused_routines
+END
+mesh_vertical.f90
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cig/!svn/ver/20472/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/mesh_vertical.f90
+END
+salton_trough_gocad.f90
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cig/!svn/ver/20472/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/salton_trough_gocad.f90
+END
+interpolate_gocad_block_HR.f90
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/interpolate_gocad_block_HR.f90
+END
+read_arrays_solver.f90
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cig/!svn/ver/20472/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/read_arrays_solver.f90
+END
+aniso_model.f90
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cig/!svn/ver/20472/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/aniso_model.f90
+END
+define_subregions.f90
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cig/!svn/ver/20472/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/define_subregions.f90
+END
+read_moho_map.f90
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cig/!svn/ver/20472/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/read_moho_map.f90
+END
+get_MPI_cutplanes_eta.f90
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cig/!svn/ver/20472/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/get_MPI_cutplanes_eta.f90
+END
+interpolate_gocad_block_MR.f90
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/interpolate_gocad_block_MR.f90
+END
+write_AVS_DX_surface_data.f90
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cig/!svn/ver/20472/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/write_AVS_DX_surface_data.f90
+END
+compute_parameters.f90
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cig/!svn/ver/20472/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/compute_parameters.f90
+END
+mymachines
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/mymachines
+END
+save_moho_arrays.f90
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cig/!svn/ver/20472/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/save_moho_arrays.f90
+END
+program_create_header_file.f90
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/program_create_header_file.f90
+END
+get_MPI_cutplanes_xi.f90
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cig/!svn/ver/20472/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/get_MPI_cutplanes_xi.f90
+END
+read_arrays_buffers_solver.f90
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cig/!svn/ver/20472/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/read_arrays_buffers_solver.f90
+END
+get_flags_boundaries.f90
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cig/!svn/ver/20472/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/get_flags_boundaries.f90
+END
+write_AVS_DX_global_data.f90
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cig/!svn/ver/20472/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/write_AVS_DX_global_data.f90
+END
+get_absorb.f90
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cig/!svn/ver/20472/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/get_absorb.f90
+END
+readme_LA_HR_and_MR_vo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/readme_LA_HR_and_MR_vo.txt
+END
+write_AVS_DX_global_faces_data.f90
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cig/!svn/ver/20472/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/write_AVS_DX_global_faces_data.f90
+END
+define_subregions_heuristic.f90
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cig/!svn/ver/20472/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/define_subregions_heuristic.f90
+END
+model_interface_bedrock.f90
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cig/!svn/ver/21855/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/model_interface_bedrock.f90
+END
+create_header_file.f90
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cig/!svn/ver/20873/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/create_header_file.f90
+END
+hauksson_model.f90
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cig/!svn/ver/20472/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/hauksson_model.f90
+END
+cmt.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/cmt.h
+END
+check_buffers_2D.f90
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cig/!svn/ver/20472/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/check_buffers_2D.f90
+END
+compute_rho_estimate.f90
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cig/!svn/ver/20472/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/compute_rho_estimate.f90
+END
+socal_model.f90
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cig/!svn/ver/20472/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/socal_model.f90
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/homogeneous_halfspace_HEX8_acoustic_elastic_absorbing_CPML_6sides/REF_SEIS
+END
+plot_these_seismograms_with_gnuplot.gnu
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/homogeneous_halfspace_HEX8_acoustic_elastic_absorbing_CPML_6sides/REF_SEIS/plot_these_seismograms_with_gnuplot.gnu
+END

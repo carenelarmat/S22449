@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/CPML_realistic_mesh_with_topography
+END
+here_are_the_thicknesses_to_use_to_define_the_CPML_layers.txt
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/CPML_realistic_mesh_with_topography/here_are_the_thicknesses_to_use_to_define_the_CPML_layers.txt
+END
+size_of_this_mesh.txt
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/CPML_realistic_mesh_with_topography/size_of_this_mesh.txt
+END
+CMTSOLUTION
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/CPML_realistic_mesh_with_topography/CMTSOLUTION
+END
+absorbing_cpml_file
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/CPML_realistic_mesh_with_topography/absorbing_cpml_file
+END
+materials_file
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/CPML_realistic_mesh_with_topography/materials_file
+END
+nodes_coords_file
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/CPML_realistic_mesh_with_topography/nodes_coords_file
+END
+test_cmpl_2layers.cub
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/CPML_realistic_mesh_with_topography/test_cmpl_2layers.cub
+END
+PML_CUBIT_notes_from_Emanuele_Casarotti_16oct2012.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/CPML_realistic_mesh_with_topography/PML_CUBIT_notes_from_Emanuele_Casarotti_16oct2012.pdf
+END
+picture_of_this_mesh_with_CPML_flags_in_colors.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/CPML_realistic_mesh_with_topography/picture_of_this_mesh_with_CPML_flags_in_colors.jpg
+END
+mesh_file
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/CPML_realistic_mesh_with_topography/mesh_file
+END
+nummaterial_velocity_file
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/CPML_realistic_mesh_with_topography/nummaterial_velocity_file
+END
+free_or_absorbing_surface_file_zmax
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/CPML_realistic_mesh_with_topography/free_or_absorbing_surface_file_zmax
+END
+picture_of_this_two_layer_mesh_with_topography.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/CPML_realistic_mesh_with_topography/picture_of_this_two_layer_mesh_with_topography.jpg
+END

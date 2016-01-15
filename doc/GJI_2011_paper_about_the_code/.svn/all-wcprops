@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cig/!svn/ver/20174/seismo/3D/SPECFEM3D/trunk/doc/GJI_2011_paper_about_the_code
+END
+paper_GJI_2011_about_the_code.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/cig/!svn/ver/20174/seismo/3D/SPECFEM3D/trunk/doc/GJI_2011_paper_about_the_code/paper_GJI_2011_about_the_code.pdf
+END
+gji.bst
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cig/!svn/ver/20173/seismo/3D/SPECFEM3D/trunk/doc/GJI_2011_paper_about_the_code/gji.bst
+END
+timet.sty
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cig/!svn/ver/20173/seismo/3D/SPECFEM3D/trunk/doc/GJI_2011_paper_about_the_code/timet.sty
+END
+compile_LaTeX_paper.sh
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cig/!svn/ver/20174/seismo/3D/SPECFEM3D/trunk/doc/GJI_2011_paper_about_the_code/compile_LaTeX_paper.sh
+END
+paper_GJI_2011_about_the_code.tex
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/cig/!svn/ver/20174/seismo/3D/SPECFEM3D/trunk/doc/GJI_2011_paper_about_the_code/paper_GJI_2011_about_the_code.tex
+END
+gji.cls
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cig/!svn/ver/20173/seismo/3D/SPECFEM3D/trunk/doc/GJI_2011_paper_about_the_code/gji.cls
+END
+gji_extr.sty
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cig/!svn/ver/20173/seismo/3D/SPECFEM3D/trunk/doc/GJI_2011_paper_about_the_code/gji_extr.sty
+END
+Biblio1.bib
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cig/!svn/ver/20173/seismo/3D/SPECFEM3D/trunk/doc/GJI_2011_paper_about_the_code/Biblio1.bib
+END

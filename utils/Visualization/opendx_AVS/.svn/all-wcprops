@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cig/!svn/ver/21758/seismo/3D/SPECFEM3D/trunk/utils/Visualization/opendx_AVS
+END
+rescale_nonlinear.f90
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/Visualization/opendx_AVS/rescale_nonlinear.f90
+END
+resample_CA_coastline_AVS.f90
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/Visualization/opendx_AVS/resample_CA_coastline_AVS.f90
+END
+basin_grid_edges.dx
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/Visualization/opendx_AVS/basin_grid_edges.dx
+END
+AVS_highwayscoast_only_LA.inp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/Visualization/opendx_AVS/AVS_highwayscoast_only_LA.inp
+END
+check_GMT_movie_openDX.f90
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/Visualization/opendx_AVS/check_GMT_movie_openDX.f90
+END
+constants_gocad.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cig/!svn/ver/20472/seismo/3D/SPECFEM3D/trunk/utils/Visualization/opendx_AVS/constants_gocad.h
+END
+DX_highwayscoast_only_LA.dx
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/Visualization/opendx_AVS/DX_highwayscoast_only_LA.dx
+END
+view_HR_gocad_box_dx.f90
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/Visualization/opendx_AVS/view_HR_gocad_box_dx.f90
+END
+convert_avs2dx_quads.f90
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/Visualization/opendx_AVS/convert_avs2dx_quads.f90
+END
+gocad_MR_grid_edges.dx
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/Visualization/opendx_AVS/gocad_MR_grid_edges.dx
+END
+comp_minmax.f90
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/Visualization/opendx_AVS/comp_minmax.f90
+END
+view_MR_gocad_box_dx.f90
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cig/!svn/ver/17522/seismo/3D/SPECFEM3D/trunk/utils/Visualization/opendx_AVS/view_MR_gocad_box_dx.f90
+END
+view_basin_model_box_dx.f90
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/Visualization/opendx_AVS/view_basin_model_box_dx.f90
+END
+resample_CA_highways_DX.f90
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/Visualization/opendx_AVS/resample_CA_highways_DX.f90
+END
+AVS_highwayscoast_all_CA.inp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/Visualization/opendx_AVS/AVS_highwayscoast_all_CA.inp
+END
+movie_network_dx.net
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/Visualization/opendx_AVS/movie_network_dx.net
+END
+DX_highwayscoast_all_CA.dx
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/Visualization/opendx_AVS/DX_highwayscoast_all_CA.dx
+END
+visualize_mesh_DX_new.net
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cig/!svn/ver/21758/seismo/3D/SPECFEM3D/trunk/utils/Visualization/opendx_AVS/visualize_mesh_DX_new.net
+END
+movie_network_dx.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/Visualization/opendx_AVS/movie_network_dx.cfg
+END
+resample_CA_highways_AVS.f90
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/Visualization/opendx_AVS/resample_CA_highways_AVS.f90
+END
+convert_DX_to_AVS_slices.f90
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/Visualization/opendx_AVS/convert_DX_to_AVS_slices.f90
+END
+evaluate_colorbar.f90
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/Visualization/opendx_AVS/evaluate_colorbar.f90
+END
+example_meshfem_seq_dx.net
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/Visualization/opendx_AVS/example_meshfem_seq_dx.net
+END
+visualize_mesh_DX_new.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cig/!svn/ver/21758/seismo/3D/SPECFEM3D/trunk/utils/Visualization/opendx_AVS/visualize_mesh_DX_new.cfg
+END
+convert_DX_to_AVS_surface.f90
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/Visualization/opendx_AVS/convert_DX_to_AVS_surface.f90
+END
+DX_highwayscoast_papers.dx
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/Visualization/opendx_AVS/DX_highwayscoast_papers.dx
+END
+gocad_HR_grid_edges.dx
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/Visualization/opendx_AVS/gocad_HR_grid_edges.dx
+END
+shrink_elements_OpenDX_mesh.pl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/Visualization/opendx_AVS/shrink_elements_OpenDX_mesh.pl
+END
+convert_CUBIT_SPECFEM_mesh_to_OpenDX.f90
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/cig/!svn/ver/21758/seismo/3D/SPECFEM3D/trunk/utils/Visualization/opendx_AVS/convert_CUBIT_SPECFEM_mesh_to_OpenDX.f90
+END
+example_meshfem_seq_dx.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/Visualization/opendx_AVS/example_meshfem_seq_dx.cfg
+END
+permute_cubit_2_opendx.f90
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/Visualization/opendx_AVS/permute_cubit_2_opendx.f90
+END
+visualize_mesh_DX_old.net
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/Visualization/opendx_AVS/visualize_mesh_DX_old.net
+END
+filter_holly.csh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/Visualization/opendx_AVS/filter_holly.csh
+END
+convert_coastline_dx.f90
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/Visualization/opendx_AVS/convert_coastline_dx.f90
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/Visualization/opendx_AVS/readme.txt
+END
+visualize_mesh_DX_old.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/Visualization/opendx_AVS/visualize_mesh_DX_old.cfg
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cig/!svn/ver/21518/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/create_movie_GMT
+END
+Par_file
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cig/!svn/ver/21518/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/create_movie_GMT/Par_file
+END
+convert_nonlinear.f90
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/create_movie_GMT/convert_nonlinear.f90
+END
+read_value_parameters.f90
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/create_movie_GMT/read_value_parameters.f90
+END
+get_value_parameters.f90
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/create_movie_GMT/get_value_parameters.f90
+END
+compute_parameters.f90
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/create_movie_GMT/compute_parameters.f90
+END
+utm_geo.f90
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/create_movie_GMT/utm_geo.f90
+END
+plot_shakemap.pl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/create_movie_GMT/plot_shakemap.pl
+END
+movie2gif.pl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/create_movie_GMT/movie2gif.pl
+END
+constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/create_movie_GMT/constants.h
+END
+convert_tiff_topo.pl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/create_movie_GMT/convert_tiff_topo.pl
+END
+create_movie_GMT.f90
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/create_movie_GMT/create_movie_GMT.f90
+END
+read_parameter_file.f90
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/create_movie_GMT/read_parameter_file.f90
+END
+convert_movie_real_to_double.f90
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/create_movie_GMT/convert_movie_real_to_double.f90
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/create_movie_GMT/readme.txt
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/create_movie_GMT/makefile
+END

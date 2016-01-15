@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/moho_map
+END
+dimi_ok_konstantin.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/moho_map/dimi_ok_konstantin.cfg
+END
+plot_moho_map_gnuplot.f90
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/moho_map/plot_moho_map_gnuplot.f90
+END
+plot_moho_map_openDX.f90
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/moho_map/plot_moho_map_openDX.f90
+END
+dimi_ok_konstantin.net
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/moho_map/dimi_ok_konstantin.net
+END
+moho_lupei_zhu.dat
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/moho_map/moho_lupei_zhu.dat
+END

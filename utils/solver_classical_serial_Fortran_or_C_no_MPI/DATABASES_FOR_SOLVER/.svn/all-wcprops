@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/cig/!svn/ver/20198/seismo/3D/SPECFEM3D/trunk/utils/solver_classical_serial_Fortran_or_C_no_MPI/DATABASES_FOR_SOLVER
+END
+matrices.dat
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/cig/!svn/ver/20198/seismo/3D/SPECFEM3D/trunk/utils/solver_classical_serial_Fortran_or_C_no_MPI/DATABASES_FOR_SOLVER/matrices.dat
+END

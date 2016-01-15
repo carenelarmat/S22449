@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/cig/!svn/ver/21780/seismo/3D/SPECFEM3D/trunk/utils/CPML
+END
+convert_external_layers_of_a_given_mesh_to_CPML_layers.f90
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/cig/!svn/ver/21780/seismo/3D/SPECFEM3D/trunk/utils/CPML/convert_external_layers_of_a_given_mesh_to_CPML_layers.f90
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cig/!svn/ver/21765/seismo/3D/SPECFEM3D/trunk/utils/CPML/Makefile
+END

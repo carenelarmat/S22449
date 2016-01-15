@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cig/!svn/ver/21809/seismo/3D/SPECFEM3D/trunk/examples/waterlayered_halfspace/DATA
+END
+CMTSOLUTION
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cig/!svn/ver/20923/seismo/3D/SPECFEM3D/trunk/examples/waterlayered_halfspace/DATA/CMTSOLUTION
+END
+Par_file
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cig/!svn/ver/21809/seismo/3D/SPECFEM3D/trunk/examples/waterlayered_halfspace/DATA/Par_file
+END
+STATIONS
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cig/!svn/ver/20923/seismo/3D/SPECFEM3D/trunk/examples/waterlayered_halfspace/DATA/STATIONS
+END
+FORCESOLUTION
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cig/!svn/ver/20923/seismo/3D/SPECFEM3D/trunk/examples/waterlayered_halfspace/DATA/FORCESOLUTION
+END

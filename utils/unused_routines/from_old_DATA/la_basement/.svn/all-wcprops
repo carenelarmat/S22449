@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/la_basement
+END
+filter_gauss_joe.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/la_basement/filter_gauss_joe.cpp
+END
+read_basement_surface_AVS.f90
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/la_basement/read_basement_surface_AVS.f90
+END
+reggridbase2_filtered_ascii.dat
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/la_basement/reggridbase2_filtered_ascii.dat
+END

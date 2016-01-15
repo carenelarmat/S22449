@@ -1,0 +1,389 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/cig/!svn/ver/22427/seismo/3D/SPECFEM3D/trunk/src/specfem3D
+END
+assemble_MPI_vector.f90
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cig/!svn/ver/21479/seismo/3D/SPECFEM3D/trunk/src/specfem3D/assemble_MPI_vector.f90
+END
+compute_coupling_viscoelastic_po.f90
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cig/!svn/ver/21479/seismo/3D/SPECFEM3D/trunk/src/specfem3D/compute_coupling_viscoelastic_po.f90
+END
+make_gravity.f90
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cig/!svn/ver/20488/seismo/3D/SPECFEM3D/trunk/src/specfem3D/make_gravity.f90
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cig/!svn/ver/22137/seismo/3D/SPECFEM3D/trunk/src/specfem3D/Makefile.in
+END
+compute_forces_poro_fluid_part.f90
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cig/!svn/ver/21245/seismo/3D/SPECFEM3D/trunk/src/specfem3D/compute_forces_poro_fluid_part.f90
+END
+locate_source.f90
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cig/!svn/ver/22134/seismo/3D/SPECFEM3D/trunk/src/specfem3D/locate_source.f90
+END
+compute_coupling_viscoelastic_ac.f90
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cig/!svn/ver/22200/seismo/3D/SPECFEM3D/trunk/src/specfem3D/compute_coupling_viscoelastic_ac.f90
+END
+compute_stacey_poroelastic.f90
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cig/!svn/ver/20644/seismo/3D/SPECFEM3D/trunk/src/specfem3D/compute_stacey_poroelastic.f90
+END
+compute_add_sources_poroelastic.f90
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cig/!svn/ver/21127/seismo/3D/SPECFEM3D/trunk/src/specfem3D/compute_add_sources_poroelastic.f90
+END
+compute_kernels.f90
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cig/!svn/ver/21822/seismo/3D/SPECFEM3D/trunk/src/specfem3D/compute_kernels.f90
+END
+program_specfem3D.f90
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cig/!svn/ver/20488/seismo/3D/SPECFEM3D/trunk/src/specfem3D/program_specfem3D.f90
+END
+prepare_timerun.F90
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cig/!svn/ver/22427/seismo/3D/SPECFEM3D/trunk/src/specfem3D/prepare_timerun.F90
+END
+comp_source_time_function.f90
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cig/!svn/ver/20488/seismo/3D/SPECFEM3D/trunk/src/specfem3D/comp_source_time_function.f90
+END
+model_update.f90
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cig/!svn/ver/21810/seismo/3D/SPECFEM3D/trunk/src/specfem3D/model_update.f90
+END
+fault_solver_dynamic.f90
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cig/!svn/ver/21855/seismo/3D/SPECFEM3D/trunk/src/specfem3D/fault_solver_dynamic.f90
+END
+pml_compute_accel_contribution.f90
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cig/!svn/ver/22427/seismo/3D/SPECFEM3D/trunk/src/specfem3D/pml_compute_accel_contribution.f90
+END
+iterate_time.F90
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cig/!svn/ver/22336/seismo/3D/SPECFEM3D/trunk/src/specfem3D/iterate_time.F90
+END
+pml_allocate_arrays.f90
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cig/!svn/ver/22200/seismo/3D/SPECFEM3D/trunk/src/specfem3D/pml_allocate_arrays.f90
+END
+fault_solver_common.f90
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cig/!svn/ver/22427/seismo/3D/SPECFEM3D/trunk/src/specfem3D/fault_solver_common.f90
+END
+compute_arrays_source.f90
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cig/!svn/ver/20971/seismo/3D/SPECFEM3D/trunk/src/specfem3D/compute_arrays_source.f90
+END
+compute_boundary_kernel.f90
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cig/!svn/ver/20488/seismo/3D/SPECFEM3D/trunk/src/specfem3D/compute_boundary_kernel.f90
+END
+compute_coupling_poroelastic_ac.f90
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cig/!svn/ver/20488/seismo/3D/SPECFEM3D/trunk/src/specfem3D/compute_coupling_poroelastic_ac.f90
+END
+compute_gradient.f90
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cig/!svn/ver/20488/seismo/3D/SPECFEM3D/trunk/src/specfem3D/compute_gradient.f90
+END
+pml_par.f90
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cig/!svn/ver/22200/seismo/3D/SPECFEM3D/trunk/src/specfem3D/pml_par.f90
+END
+compute_coupling_poroelastic_el.f90
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cig/!svn/ver/21479/seismo/3D/SPECFEM3D/trunk/src/specfem3D/compute_coupling_poroelastic_el.f90
+END
+finalize_simulation.f90
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cig/!svn/ver/22137/seismo/3D/SPECFEM3D/trunk/src/specfem3D/finalize_simulation.f90
+END
+specfem3D_par.f90
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cig/!svn/ver/22200/seismo/3D/SPECFEM3D/trunk/src/specfem3D/specfem3D_par.f90
+END
+locate_receivers.f90
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cig/!svn/ver/22134/seismo/3D/SPECFEM3D/trunk/src/specfem3D/locate_receivers.f90
+END
+compute_interpolated_dva.f90
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cig/!svn/ver/20488/seismo/3D/SPECFEM3D/trunk/src/specfem3D/compute_interpolated_dva.f90
+END
+compute_forces_viscoelastic_noDev.f90
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cig/!svn/ver/22427/seismo/3D/SPECFEM3D/trunk/src/specfem3D/compute_forces_viscoelastic_noDev.f90
+END
+write_output_SU.f90
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cig/!svn/ver/20698/seismo/3D/SPECFEM3D/trunk/src/specfem3D/write_output_SU.f90
+END
+compute_forces_viscoelastic_calling_routine.F90
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cig/!svn/ver/22427/seismo/3D/SPECFEM3D/trunk/src/specfem3D/compute_forces_viscoelastic_calling_routine.F90
+END
+noise_tomography.f90
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cig/!svn/ver/22193/seismo/3D/SPECFEM3D/trunk/src/specfem3D/noise_tomography.f90
+END
+save_adjoint_kernels.f90
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cig/!svn/ver/21822/seismo/3D/SPECFEM3D/trunk/src/specfem3D/save_adjoint_kernels.f90
+END
+fault_solver_kinematic.f90
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cig/!svn/ver/21855/seismo/3D/SPECFEM3D/trunk/src/specfem3D/fault_solver_kinematic.f90
+END
+compute_forces_poro_solid_part.f90
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cig/!svn/ver/21239/seismo/3D/SPECFEM3D/trunk/src/specfem3D/compute_forces_poro_solid_part.f90
+END
+read_mesh_databases.f90
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cig/!svn/ver/22401/seismo/3D/SPECFEM3D/trunk/src/specfem3D/read_mesh_databases.f90
+END
+compute_add_sources_viscoelastic.f90
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cig/!svn/ver/22427/seismo/3D/SPECFEM3D/trunk/src/specfem3D/compute_add_sources_viscoelastic.f90
+END
+compute_forces_acoustic_noDev.f90
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cig/!svn/ver/22427/seismo/3D/SPECFEM3D/trunk/src/specfem3D/compute_forces_acoustic_noDev.f90
+END
+compute_coupling_acoustic_po.f90
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cig/!svn/ver/20488/seismo/3D/SPECFEM3D/trunk/src/specfem3D/compute_coupling_acoustic_po.f90
+END
+pml_compute_memory_variables.f90
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cig/!svn/ver/22427/seismo/3D/SPECFEM3D/trunk/src/specfem3D/pml_compute_memory_variables.f90
+END
+save_external_bin_m_up.f90
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cig/!svn/ver/21518/seismo/3D/SPECFEM3D/trunk/src/specfem3D/save_external_bin_m_up.f90
+END
+specfem3D.f90
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cig/!svn/ver/20925/seismo/3D/SPECFEM3D/trunk/src/specfem3D/specfem3D.f90
+END
+setup_sources_receivers.f90
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cig/!svn/ver/21479/seismo/3D/SPECFEM3D/trunk/src/specfem3D/setup_sources_receivers.f90
+END
+compute_forces_poroelastic_calling_routine.f90
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cig/!svn/ver/21694/seismo/3D/SPECFEM3D/trunk/src/specfem3D/compute_forces_poroelastic_calling_routine.f90
+END
+detect_mesh_surfaces.f90
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cig/!svn/ver/21898/seismo/3D/SPECFEM3D/trunk/src/specfem3D/detect_mesh_surfaces.f90
+END
+compute_add_sources_acoustic.f90
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cig/!svn/ver/22427/seismo/3D/SPECFEM3D/trunk/src/specfem3D/compute_add_sources_acoustic.f90
+END
+write_output_ASCII.f90
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cig/!svn/ver/21855/seismo/3D/SPECFEM3D/trunk/src/specfem3D/write_output_ASCII.f90
+END
+compute_forces_viscoelastic_Dev.F90
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cig/!svn/ver/21974/seismo/3D/SPECFEM3D/trunk/src/specfem3D/compute_forces_viscoelastic_Dev.F90
+END
+gravity_perturbation.f90
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cig/!svn/ver/22409/seismo/3D/SPECFEM3D/trunk/src/specfem3D/gravity_perturbation.f90
+END
+compute_coupling_acoustic_el.f90
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cig/!svn/ver/22380/seismo/3D/SPECFEM3D/trunk/src/specfem3D/compute_coupling_acoustic_el.f90
+END
+setup_GLL_points.f90
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cig/!svn/ver/21587/seismo/3D/SPECFEM3D/trunk/src/specfem3D/setup_GLL_points.f90
+END
+compute_stacey_viscoelastic.f90
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cig/!svn/ver/22195/seismo/3D/SPECFEM3D/trunk/src/specfem3D/compute_stacey_viscoelastic.f90
+END
+write_seismograms.f90
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cig/!svn/ver/21479/seismo/3D/SPECFEM3D/trunk/src/specfem3D/write_seismograms.f90
+END
+setup_movie_meshes.f90
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cig/!svn/ver/20942/seismo/3D/SPECFEM3D/trunk/src/specfem3D/setup_movie_meshes.f90
+END
+create_color_image.f90
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cig/!svn/ver/21642/seismo/3D/SPECFEM3D/trunk/src/specfem3D/create_color_image.f90
+END
+initialize_simulation.f90
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cig/!svn/ver/22136/seismo/3D/SPECFEM3D/trunk/src/specfem3D/initialize_simulation.f90
+END
+compute_forces_acoustic_Dev.F90
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cig/!svn/ver/22427/seismo/3D/SPECFEM3D/trunk/src/specfem3D/compute_forces_acoustic_Dev.F90
+END
+compute_forces_acoustic_calling_routine.f90
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cig/!svn/ver/22427/seismo/3D/SPECFEM3D/trunk/src/specfem3D/compute_forces_acoustic_calling_routine.f90
+END
+write_movie_output.f90
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cig/!svn/ver/21263/seismo/3D/SPECFEM3D/trunk/src/specfem3D/write_movie_output.f90
+END
+compute_adj_source_frechet.f90
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cig/!svn/ver/20488/seismo/3D/SPECFEM3D/trunk/src/specfem3D/compute_adj_source_frechet.f90
+END
+compute_stacey_acoustic.f90
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cig/!svn/ver/22194/seismo/3D/SPECFEM3D/trunk/src/specfem3D/compute_stacey_acoustic.f90
+END
+pml_output_VTKs.f90
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cig/!svn/ver/21479/seismo/3D/SPECFEM3D/trunk/src/specfem3D/pml_output_VTKs.f90
+END
+multiply_arrays_source.f90
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cig/!svn/ver/20644/seismo/3D/SPECFEM3D/trunk/src/specfem3D/multiply_arrays_source.f90
+END

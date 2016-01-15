@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/cig/!svn/ver/22131/seismo/3D/SPECFEM3D/trunk/src/cuda
+END
+compute_stacey_acoustic_cuda.cu
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cig/!svn/ver/20674/seismo/3D/SPECFEM3D/trunk/src/cuda/compute_stacey_acoustic_cuda.cu
+END
+specfem3D_gpu_cuda_method_stubs.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cig/!svn/ver/21518/seismo/3D/SPECFEM3D/trunk/src/cuda/specfem3D_gpu_cuda_method_stubs.c
+END
+compute_add_sources_acoustic_cuda.cu
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cig/!svn/ver/20674/seismo/3D/SPECFEM3D/trunk/src/cuda/compute_add_sources_acoustic_cuda.cu
+END
+compute_forces_viscoelastic_cuda.cu
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cig/!svn/ver/21479/seismo/3D/SPECFEM3D/trunk/src/cuda/compute_forces_viscoelastic_cuda.cu
+END
+noise_tomography_cuda.cu
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cig/!svn/ver/20488/seismo/3D/SPECFEM3D/trunk/src/cuda/noise_tomography_cuda.cu
+END
+compute_stacey_viscoelastic_cuda.cu
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cig/!svn/ver/21249/seismo/3D/SPECFEM3D/trunk/src/cuda/compute_stacey_viscoelastic_cuda.cu
+END
+save_and_compare_cpu_vs_gpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cig/!svn/ver/22131/seismo/3D/SPECFEM3D/trunk/src/cuda/save_and_compare_cpu_vs_gpu.c
+END
+compute_kernels_cuda.cu
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cig/!svn/ver/20644/seismo/3D/SPECFEM3D/trunk/src/cuda/compute_kernels_cuda.cu
+END
+compute_add_sources_viscoelastic_cuda.cu
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cig/!svn/ver/21249/seismo/3D/SPECFEM3D/trunk/src/cuda/compute_add_sources_viscoelastic_cuda.cu
+END
+initialize_cuda.cu
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cig/!svn/ver/20873/seismo/3D/SPECFEM3D/trunk/src/cuda/initialize_cuda.cu
+END
+write_seismograms_cuda.cu
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cig/!svn/ver/20674/seismo/3D/SPECFEM3D/trunk/src/cuda/write_seismograms_cuda.cu
+END
+check_fields_cuda.cu
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cig/!svn/ver/20873/seismo/3D/SPECFEM3D/trunk/src/cuda/check_fields_cuda.cu
+END
+prepare_mesh_constants_cuda.cu
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cig/!svn/ver/21518/seismo/3D/SPECFEM3D/trunk/src/cuda/prepare_mesh_constants_cuda.cu
+END
+it_update_displacement_cuda.cu
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cig/!svn/ver/21518/seismo/3D/SPECFEM3D/trunk/src/cuda/it_update_displacement_cuda.cu
+END
+compute_forces_acoustic_cuda.cu
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cig/!svn/ver/20759/seismo/3D/SPECFEM3D/trunk/src/cuda/compute_forces_acoustic_cuda.cu
+END
+mesh_constants_cuda.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cig/!svn/ver/21224/seismo/3D/SPECFEM3D/trunk/src/cuda/mesh_constants_cuda.h
+END
+transfer_fields_cuda.cu
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cig/!svn/ver/21224/seismo/3D/SPECFEM3D/trunk/src/cuda/transfer_fields_cuda.cu
+END
+prepare_constants_cuda.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cig/!svn/ver/20855/seismo/3D/SPECFEM3D/trunk/src/cuda/prepare_constants_cuda.h
+END
+compute_coupling_cuda.cu
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cig/!svn/ver/21518/seismo/3D/SPECFEM3D/trunk/src/cuda/compute_coupling_cuda.cu
+END
