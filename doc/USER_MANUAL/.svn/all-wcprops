@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/cig/!svn/ver/22439/seismo/3D/SPECFEM3D/trunk/doc/USER_MANUAL
+END
+create_icon_image_for_CIG_Web_site.sh
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cig/!svn/ver/20871/seismo/3D/SPECFEM3D/trunk/doc/USER_MANUAL/create_icon_image_for_CIG_Web_site.sh
+END
+specfem_3d_Cartesian-cover_small.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cig/!svn/ver/21353/seismo/3D/SPECFEM3D/trunk/doc/USER_MANUAL/specfem_3d_Cartesian-cover_small.jpg
+END
+bibliography.bib
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cig/!svn/ver/22439/seismo/3D/SPECFEM3D/trunk/doc/USER_MANUAL/bibliography.bib
+END
+manual_SPECFEM3D_Cartesian.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cig/!svn/ver/22414/seismo/3D/SPECFEM3D/trunk/doc/USER_MANUAL/manual_SPECFEM3D_Cartesian.pdf
+END
+newcommands.tex
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/doc/USER_MANUAL/newcommands.tex
+END
+compile_LaTeX_manual.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cig/!svn/ver/20871/seismo/3D/SPECFEM3D/trunk/doc/USER_MANUAL/compile_LaTeX_manual.sh
+END
+wrapfig.sty
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cig/!svn/ver/20868/seismo/3D/SPECFEM3D/trunk/doc/USER_MANUAL/wrapfig.sty
+END
+manual_SPECFEM3D_Cartesian.tex
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cig/!svn/ver/22414/seismo/3D/SPECFEM3D/trunk/doc/USER_MANUAL/manual_SPECFEM3D_Cartesian.tex
+END

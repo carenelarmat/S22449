@@ -1,4 +1,4 @@
-!
+!=====================================================================
 !
 !               S p e c f e m 3 D  V e r s i o n  2 . 1
 !               ---------------------------------------
@@ -22,6 +22,11 @@
 ! with this program; if not, write to the Free Software Foundation, Inc.,
 ! 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
 !
+
+! Modified Carene Larmat Add variables and call of subroutines for writing
+! derivative seismograms
+! velocity is outputed in the seismograms instead of displacements
+! Added subroutines: write_one_seismogram_4 write_adj_seismograms_to_file_4
 !=====================================================================
 
 
@@ -37,6 +42,7 @@
   ! local parameters
   real(kind=CUSTOM_REAL),dimension(NDIM,NGLLX,NGLLY,NGLLZ):: displ_element,veloc_element
   double precision :: dxd,dyd,dzd,vxd,vyd,vzd,axd,ayd,azd
+! Carene Derivative Seismograms
   double precision :: div,curlx,curly,curlz
   integer :: irec_local,irec
   integer :: iglob,ispec,i,j,k
@@ -48,11 +54,6 @@
 
   ! TODO: Test and Fix CUDA seismograms code.
   logical,parameter :: USE_CUDA_SEISMOGRAMS = .false.
-
-  !Carene: quick implementation of derivative
-  !logical,parameter :: DERIVATIVES_SEISMOS = .false.
-  ! This parameter is now in specfem3D_par.f90 
-
 
   ! gets resulting array values onto CPU
   if(GPU_MODE) then
@@ -156,12 +157,6 @@
                         hprime_xx,hprime_yy,hprime_zz, &
                         xix,xiy,xiz,etax,etay,etaz,gammax,gammay,gammaz, &
                         ibool,rhostore,GRAVITY)
-!DEBUG 
-!        write(*,*) 'DEBUG X',veloc_element(1,5,5,5),xstore(ibool(5,5,5,ispec))
-!        write(*,*) 'DEBUG Y',veloc_element(2,5,5,5),ystore(ibool(5,5,5,ispec))
-!        write(*,*) 'DEBUG Z',veloc_element(3,5,5,5),zstore(ibool(5,5,5,ispec))
-
-        ! interpolates displ/veloc/pressure at receiver locations
 !Carene 
         if ( DERIVATIVES_SEISMOS) then 
               call compute_interpolated_dva_ac_div(displ_element,veloc_element,&
@@ -175,6 +170,7 @@
                         hxir,hetar,hgammar, &
                         dxd,dyd,dzd,vxd,vyd,vzd,axd,ayd,azd,div)
         else
+        ! interpolates displ/veloc/pressure at receiver locations
               call compute_interpolated_dva_ac(displ_element,veloc_element,&
                         potential_dot_dot_acoustic,potential_dot_acoustic,&
                         potential_acoustic,NGLOB_AB, &
@@ -374,6 +370,8 @@
   ! write the current or final seismograms
   if((mod(it,NTSTEP_BETWEEN_OUTPUT_SEISMOS) == 0 .or. it == NSTEP) .and. (.not.SU_FORMAT)) then
     if (SIMULATION_TYPE == 1 .or. SIMULATION_TYPE == 3) then
+
+!Carene Change asked to have velocity instead of displacement in normal output
 !      call write_seismograms_to_file(seismograms_d,1)
       call write_seismograms_to_file(seismograms_v,2)
 !      call write_seismograms_to_file(seismograms_a,3)
@@ -384,6 +382,10 @@
             nrec_local,it,DT,NSTEP,t0,LOCAL_PATH,1)
       if (DERIVATIVES_SEISMOS) call write_adj_seismograms_to_file_4(myrank,seismograms_der, &
             number_receiver_global,nrec_local,it,DT,NSTEP,t0,LOCAL_PATH)
+
+      call write_seismograms_to_file(seismograms_d,1)
+      call write_seismograms_to_file(seismograms_v,2)
+      call write_seismograms_to_file(seismograms_a,3)
     endif
   endif
 
@@ -1206,5 +1208,4 @@
   enddo
 
   end subroutine write_adj_seismograms_to_file_4
-
 

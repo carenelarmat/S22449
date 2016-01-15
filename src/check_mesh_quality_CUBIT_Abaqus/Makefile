@@ -29,9 +29,9 @@
 
 # src/check_mesh_quality_CUBIT_Abaqus/Makefile.  Generated from Makefile.in by configure.
 
-FC = ifort
+FC = /usr/projects/hpcsoft/toss2/common/intel/2015.5.223/composer_xe_2015.5.223/bin/intel64/ifort
 FCFLAGS = #-g
-FLAGS_CHECK = -axAVX,SSE4.2 -xHost -fpe0 -ftz -assume buffered_io -assume byterecl -align sequence -vec-report0 -std03 -diag-disable 6477 -implicitnone -warn all -O3 -check nobounds -DFORCE_VECTORIZATION
+FLAGS_CHECK = -O3 -check nobounds -DFORCE_VECTORIZATION -xHost -ftz -assume buffered_io -assume byterecl -align sequence -vec-report0 -implicitnone -warn truncated_source -warn argument_checking -warn unused -warn declarations -warn alignments -warn ignore_loc -warn usage
 FCFLAGS_f90 = 
 
 FCCOMPILE_CHECK = ${FC} ${FCFLAGS} $(FLAGS_CHECK)

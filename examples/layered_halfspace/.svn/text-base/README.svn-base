@@ -1,0 +1,131 @@
+----------------------------------------------------------------------
+README
+----------------------------------------------------------------------
+
+This example creates a layered model, with three volumes and two different material
+descriptions, using CUBIT.
+It is used for validation with a layer-cake solution from Komatitsch and Tromp (1999),
+using a 2-layer model as shown in their Figure 8, left.
+
+step-by-step tutorial:
+
+0. run the example in the directory homogeneous_halfspace
+
+1. copy three input files from examples directory into SPECFEM3D/DATA/:
+
+     > cd examples/layered_halfspace/DATA/
+     > cp CMTSOLUTION Par_file STATIONS ../../../DATA/
+
+
+2. create mesh:
+
+   - from the directory SPECFEM3D/examples/layered_halfspace,
+     open cubit GUI:
+
+     > claro
+
+     then run meshing script:
+     claro -> Menu "Tools" -> "Play Journal File" ... and select file: "2lay_mesh_boundary_fig8.py"
+
+     (or select: "2lay_mesh_boundary_fig8-nodoubling.py" for regular mesh without doubling layer)
+
+     this creates all the mesh files in subdirectory MESH/
+
+
+   - optional: check mesh quality using check_mesh_quality_CUBIT_Abaqus.f90
+
+      using the CUBIT GUI:
+        claro -> Menu "File" -> "Export...", select Abaqus (*.inp)
+
+        e.g. export as "layered_halfspace_mesh.inp"
+
+        note 1: only output blocks for volumes, i.e. block ids 1,2,3 for this example here
+        note 2: do NOT select "Export Using Cubit IDs"
+
+      alternatively, using the CUBIT command line:
+        > export Abaqus "layered_halfspace_mesh.inp" Block 1,2,3 overwrite cubitids
+
+      change directory:
+        > cd ../../src/check_mesh_quality_CUBIT_Abaqus/
+
+      save number of nodes and number of elements and edit in header of
+      check_mesh_quality_CUBIT_Abaqus.f90:
+
+        character(len=100), parameter :: cubit_mesh_file = 'examples/layered_halfspace/layered_halfspace_mesh.inp'
+        integer, parameter :: NPOIN = 76819    ! number of nodes
+        integer, parameter :: NSPEC = 70200    ! number of elements (only volumes, i.e. block ids 1,2,3 )
+        integer, parameter :: NGNOD = 8        ! hexahedral elements
+        logical, parameter :: IGNORE_OTHER_HEADERS = .false.
+        double precision, parameter :: delta_t = 0.005         ! arbitrary, initial guess
+        double precision, parameter :: VP_MAX = 7500.d0        ! maximum vp in volume block id 3
+
+      compile programs in SPECFEM3D:
+        > cd ../../
+        > make xcheck_mesh_quality_CUBIT_Abaqus
+
+      run program:
+        > ./bin/xcheck_mesh_quality_CUBIT_Abaqus
+      at prompts, enter, for example, 1, then 0.6 to list elements with high skewness
+
+      plot skewness histogram as ps file
+        > gnuplot
+        > load "plot_mesh_quality_histogram.gnu"
+        > set term postscript color solid
+        > set output 'hist_skewness.ps'
+        > replot
+        > quit
+
+
+3. decompose mesh files:
+
+    - set mesh directory in go_decomposer_pbs.bash to:
+      MESHDIR=examples/layered_halfspace/MESH/
+
+    - run decomposer:
+      > qsub go_decomposer_pbs.bash
+
+      which creates mesh partitions "proc0000***_Database" in directory "DATABASES_MPI".
+      you can then specify "../OUTPUT_FILES/DATABASES_MPI" in "Par_file" for your "LOCAL_PATH"
+
+
+4. generate databases:
+
+    - compile generate_databases:
+      > make xgenerate_databases
+
+    - submit job script:
+      > qsub go_generate_databases_pbs.bash
+
+      this will create binary mesh files, e.g. "proc000***_external_mesh.bin"
+      in directory OUTPUT_FILES/DATABASES_MPI/.
+      (note: if execution fails due to memory shortage - most likely fails when calling routine to
+           create regional mesh - then try to increase process memory stack size: ulimit -s 2000000  (2GB) )
+
+      optional: load a set of .vtk files into paraview to view model, mesh, and partitioning
+      (note: must have Par_file option SAVE_MESH_FILES = .true.)
+
+
+5. run simulation:
+
+    - compile and run specfem3D:
+      > make xspecfem3D
+      > qsub go_solver_pbs.bash
+
+    note: simulation will take about 25 minutes and generate
+    3 sets (semd,semv,sema) of 6 seismogram files in OUTPUT_FILES,
+    as well as 7 timestamp****** files
+
+Optional:
+  Compare the solution traces in the directory
+    OUTPUT_FILES/:
+    X55.DB.HXZ.semd
+    X31.DB.HXZ.semd
+
+  with the reference solutions provided in the directory
+    examples/layered_halfspace/VALIDATION_3D_SEM_SIMPLER_LAYER_SOURCE_DEPTH/REF_SEIS/:
+    Uz_file_Ycste_0055.txt  -- Komatitsch and Tromp (1999, Figure 9, top left)
+    Uz_file_Ycste_0031.txt  -- Komatitsch and Tromp (1999, Figure 9, bottom left)
+
+  Note: a time shift (~2.53s) is needed to align these given to differences in origin time convention
+
+

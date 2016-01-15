@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/grf
+END
+3elt.xyz.gz
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/grf/3elt.xyz.gz
+END
+bump.grf.gz
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/grf/bump.grf.gz
+END
+4elt.xyz.gz
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/grf/4elt.xyz.gz
+END
+4elt2.xyz.gz
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/grf/4elt2.xyz.gz
+END
+3elt.grf.gz
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/grf/3elt.grf.gz
+END
+4elt.grf.gz
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/grf/4elt.grf.gz
+END
+4elt2.grf.gz
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/grf/4elt2.grf.gz
+END
+bump.xyz.gz
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/grf/bump.xyz.gz
+END

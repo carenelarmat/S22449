@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/cig/!svn/ver/17474/seismo/3D/SPECFEM3D/trunk/examples/layered_halfspace/VALIDATION_3D_SEM_SIMPLER_LAYER_SOURCE_DEPTH
+END
+comp_traces_gnuplot_x.f
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/cig/!svn/ver/17474/seismo/3D/SPECFEM3D/trunk/examples/layered_halfspace/VALIDATION_3D_SEM_SIMPLER_LAYER_SOURCE_DEPTH/comp_traces_gnuplot_x.f
+END
+common_grid.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/cig/!svn/ver/17474/seismo/3D/SPECFEM3D/trunk/examples/layered_halfspace/VALIDATION_3D_SEM_SIMPLER_LAYER_SOURCE_DEPTH/common_grid.h
+END
+reyk_x.da
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/cig/!svn/ver/17474/seismo/3D/SPECFEM3D/trunk/examples/layered_halfspace/VALIDATION_3D_SEM_SIMPLER_LAYER_SOURCE_DEPTH/reyk_x.da
+END
+comp_traces_gnuplot_z.f
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/cig/!svn/ver/17474/seismo/3D/SPECFEM3D/trunk/examples/layered_halfspace/VALIDATION_3D_SEM_SIMPLER_LAYER_SOURCE_DEPTH/comp_traces_gnuplot_z.f
+END
+dble_prec_michel.f
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/cig/!svn/ver/17474/seismo/3D/SPECFEM3D/trunk/examples/layered_halfspace/VALIDATION_3D_SEM_SIMPLER_LAYER_SOURCE_DEPTH/dble_prec_michel.f
+END
+zwgljd.f
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cig/!svn/ver/17474/seismo/3D/SPECFEM3D/trunk/examples/layered_halfspace/VALIDATION_3D_SEM_SIMPLER_LAYER_SOURCE_DEPTH/zwgljd.f
+END
+common_solve.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/cig/!svn/ver/17474/seismo/3D/SPECFEM3D/trunk/examples/layered_halfspace/VALIDATION_3D_SEM_SIMPLER_LAYER_SOURCE_DEPTH/common_solve.h
+END
+reyk_z.da
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/cig/!svn/ver/17474/seismo/3D/SPECFEM3D/trunk/examples/layered_halfspace/VALIDATION_3D_SEM_SIMPLER_LAYER_SOURCE_DEPTH/reyk_z.da
+END
+jacg.f
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/cig/!svn/ver/17474/seismo/3D/SPECFEM3D/trunk/examples/layered_halfspace/VALIDATION_3D_SEM_SIMPLER_LAYER_SOURCE_DEPTH/jacg.f
+END
+pnleg.f
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/cig/!svn/ver/17474/seismo/3D/SPECFEM3D/trunk/examples/layered_halfspace/VALIDATION_3D_SEM_SIMPLER_LAYER_SOURCE_DEPTH/pnleg.f
+END
+pnormj.f
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cig/!svn/ver/17474/seismo/3D/SPECFEM3D/trunk/examples/layered_halfspace/VALIDATION_3D_SEM_SIMPLER_LAYER_SOURCE_DEPTH/pnormj.f
+END
+read_sismos.f
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/cig/!svn/ver/17474/seismo/3D/SPECFEM3D/trunk/examples/layered_halfspace/VALIDATION_3D_SEM_SIMPLER_LAYER_SOURCE_DEPTH/read_sismos.f
+END
+specfem3D.f
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/cig/!svn/ver/17474/seismo/3D/SPECFEM3D/trunk/examples/layered_halfspace/VALIDATION_3D_SEM_SIMPLER_LAYER_SOURCE_DEPTH/specfem3D.f
+END
+reyk.da
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/cig/!svn/ver/17474/seismo/3D/SPECFEM3D/trunk/examples/layered_halfspace/VALIDATION_3D_SEM_SIMPLER_LAYER_SOURCE_DEPTH/reyk.da
+END
+pndleg.f
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cig/!svn/ver/17474/seismo/3D/SPECFEM3D/trunk/examples/layered_halfspace/VALIDATION_3D_SEM_SIMPLER_LAYER_SOURCE_DEPTH/pndleg.f
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/cig/!svn/ver/17474/seismo/3D/SPECFEM3D/trunk/examples/layered_halfspace/VALIDATION_3D_SEM_SIMPLER_LAYER_SOURCE_DEPTH/README
+END
+endw1.f
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/cig/!svn/ver/17474/seismo/3D/SPECFEM3D/trunk/examples/layered_halfspace/VALIDATION_3D_SEM_SIMPLER_LAYER_SOURCE_DEPTH/endw1.f
+END
+tokyo_generate.f
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/cig/!svn/ver/17474/seismo/3D/SPECFEM3D/trunk/examples/layered_halfspace/VALIDATION_3D_SEM_SIMPLER_LAYER_SOURCE_DEPTH/tokyo_generate.f
+END
+endw2.f
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/cig/!svn/ver/17474/seismo/3D/SPECFEM3D/trunk/examples/layered_halfspace/VALIDATION_3D_SEM_SIMPLER_LAYER_SOURCE_DEPTH/endw2.f
+END
+make_specfem3D
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/cig/!svn/ver/17474/seismo/3D/SPECFEM3D/trunk/examples/layered_halfspace/VALIDATION_3D_SEM_SIMPLER_LAYER_SOURCE_DEPTH/make_specfem3D
+END
+plotpost.f
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/cig/!svn/ver/17474/seismo/3D/SPECFEM3D/trunk/examples/layered_halfspace/VALIDATION_3D_SEM_SIMPLER_LAYER_SOURCE_DEPTH/plotpost.f
+END
+make_meshfem3D
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/cig/!svn/ver/17474/seismo/3D/SPECFEM3D/trunk/examples/layered_halfspace/VALIDATION_3D_SEM_SIMPLER_LAYER_SOURCE_DEPTH/make_meshfem3D
+END
+jacobf.f
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cig/!svn/ver/17474/seismo/3D/SPECFEM3D/trunk/examples/layered_halfspace/VALIDATION_3D_SEM_SIMPLER_LAYER_SOURCE_DEPTH/jacobf.f
+END
+zwgjd.f
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/cig/!svn/ver/17474/seismo/3D/SPECFEM3D/trunk/examples/layered_halfspace/VALIDATION_3D_SEM_SIMPLER_LAYER_SOURCE_DEPTH/zwgjd.f
+END
+txt_2_big_sep.f
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/cig/!svn/ver/17474/seismo/3D/SPECFEM3D/trunk/examples/layered_halfspace/VALIDATION_3D_SEM_SIMPLER_LAYER_SOURCE_DEPTH/txt_2_big_sep.f
+END
+gammaf.f
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cig/!svn/ver/17474/seismo/3D/SPECFEM3D/trunk/examples/layered_halfspace/VALIDATION_3D_SEM_SIMPLER_LAYER_SOURCE_DEPTH/gammaf.f
+END
+hdgll.f
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/cig/!svn/ver/17474/seismo/3D/SPECFEM3D/trunk/examples/layered_halfspace/VALIDATION_3D_SEM_SIMPLER_LAYER_SOURCE_DEPTH/hdgll.f
+END

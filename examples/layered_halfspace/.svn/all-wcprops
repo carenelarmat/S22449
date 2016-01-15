@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cig/!svn/ver/22419/seismo/3D/SPECFEM3D/trunk/examples/layered_halfspace
+END
+boundary_definition.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cig/!svn/ver/22419/seismo/3D/SPECFEM3D/trunk/examples/layered_halfspace/boundary_definition.py
+END
+process.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cig/!svn/ver/20958/seismo/3D/SPECFEM3D/trunk/examples/layered_halfspace/process.sh
+END
+2lay_mesh_boundary_fig8-nodoubling.py
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cig/!svn/ver/17380/seismo/3D/SPECFEM3D/trunk/examples/layered_halfspace/2lay_mesh_boundary_fig8-nodoubling.py
+END
+cubit2specfem3d.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cig/!svn/ver/22419/seismo/3D/SPECFEM3D/trunk/examples/layered_halfspace/cubit2specfem3d.py
+END
+2lay_mesh_boundary_fig8.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cig/!svn/ver/17619/seismo/3D/SPECFEM3D/trunk/examples/layered_halfspace/2lay_mesh_boundary_fig8.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cig/!svn/ver/20923/seismo/3D/SPECFEM3D/trunk/examples/layered_halfspace/README
+END

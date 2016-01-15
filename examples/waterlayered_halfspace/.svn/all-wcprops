@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/waterlayered_halfspace
+END
+waterlayer_mesh_boundary_fig8-nodoubling.py
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/cig/!svn/ver/17380/seismo/3D/SPECFEM3D/trunk/examples/waterlayered_halfspace/waterlayer_mesh_boundary_fig8-nodoubling.py
+END
+boundary_definition.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/waterlayered_halfspace/boundary_definition.py
+END
+waterlayer_mesh_boundary_fig8.py
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cig/!svn/ver/17619/seismo/3D/SPECFEM3D/trunk/examples/waterlayered_halfspace/waterlayer_mesh_boundary_fig8.py
+END
+waterlayer_only-nodoubling.py
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/examples/waterlayered_halfspace/waterlayer_only-nodoubling.py
+END
+process.sh
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cig/!svn/ver/20958/seismo/3D/SPECFEM3D/trunk/examples/waterlayered_halfspace/process.sh
+END
+cubit2specfem3d.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/waterlayered_halfspace/cubit2specfem3d.py
+END
+waterlayered.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cig/!svn/ver/17519/seismo/3D/SPECFEM3D/trunk/examples/waterlayered_halfspace/waterlayered.png
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cig/!svn/ver/20923/seismo/3D/SPECFEM3D/trunk/examples/waterlayered_halfspace/README
+END
+waterlayer_mesh_boundary_vertical.py
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cig/!svn/ver/17380/seismo/3D/SPECFEM3D/trunk/examples/waterlayered_halfspace/waterlayer_mesh_boundary_vertical.py
+END

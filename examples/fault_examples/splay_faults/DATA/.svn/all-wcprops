@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/fault_examples/splay_faults/DATA
+END
+FAULT_STATIONS
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/fault_examples/splay_faults/DATA/FAULT_STATIONS
+END
+CMTSOLUTION
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/fault_examples/splay_faults/DATA/CMTSOLUTION
+END
+Par_file
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/fault_examples/splay_faults/DATA/Par_file
+END
+Par_file_faults.barrier
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/fault_examples/splay_faults/DATA/Par_file_faults.barrier
+END
+STATIONS
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/fault_examples/splay_faults/DATA/STATIONS
+END
+Par_file_faults.homogeneous
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/fault_examples/splay_faults/DATA/Par_file_faults.homogeneous
+END

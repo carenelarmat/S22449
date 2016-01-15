@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/cig/!svn/ver/20198/seismo/3D/SPECFEM3D/trunk/utils/solver_classical_serial_Fortran_or_C_no_MPI/slower_versions_not_so_good
+END
+serial_specfem3D_22dec2008_NGLOB.f90
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/cig/!svn/ver/20198/seismo/3D/SPECFEM3D/trunk/utils/solver_classical_serial_Fortran_or_C_no_MPI/slower_versions_not_so_good/serial_specfem3D_22dec2008_NGLOB.f90
+END
+serial_specfem3D_26dec2008_inlined_v06_fac1_merged_not_faster.f90
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/cig/!svn/ver/20198/seismo/3D/SPECFEM3D/trunk/utils/solver_classical_serial_Fortran_or_C_no_MPI/slower_versions_not_so_good/serial_specfem3D_26dec2008_inlined_v06_fac1_merged_not_faster.f90
+END
+serial_specfem3D_26dec2008_inlined_v04_is_slower.f90
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/cig/!svn/ver/20198/seismo/3D/SPECFEM3D/trunk/utils/solver_classical_serial_Fortran_or_C_no_MPI/slower_versions_not_so_good/serial_specfem3D_26dec2008_inlined_v04_is_slower.f90
+END
+older_serial_specfem3D_inlined_v03_is_the_fastest_with_function_calls.f90
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svn/cig/!svn/ver/20198/seismo/3D/SPECFEM3D/trunk/utils/solver_classical_serial_Fortran_or_C_no_MPI/slower_versions_not_so_good/older_serial_specfem3D_inlined_v03_is_the_fastest_with_function_calls.f90
+END
+serial_specfem3D_22dec2008_NSPEC.f90
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/cig/!svn/ver/20198/seismo/3D/SPECFEM3D/trunk/utils/solver_classical_serial_Fortran_or_C_no_MPI/slower_versions_not_so_good/serial_specfem3D_22dec2008_NSPEC.f90
+END
+serial_specfem3D_26dec2008_inlined_v05_displx_y_z_3arrays.f90
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/cig/!svn/ver/20198/seismo/3D/SPECFEM3D/trunk/utils/solver_classical_serial_Fortran_or_C_no_MPI/slower_versions_not_so_good/serial_specfem3D_26dec2008_inlined_v05_displx_y_z_3arrays.f90
+END
+timings_comparing_all_versions.txt
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/cig/!svn/ver/20198/seismo/3D/SPECFEM3D/trunk/utils/solver_classical_serial_Fortran_or_C_no_MPI/slower_versions_not_so_good/timings_comparing_all_versions.txt
+END
+serial_specfem3D_26dec2008_inlined_v01.f90
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/cig/!svn/ver/20198/seismo/3D/SPECFEM3D/trunk/utils/solver_classical_serial_Fortran_or_C_no_MPI/slower_versions_not_so_good/serial_specfem3D_26dec2008_inlined_v01.f90
+END
+serial_specfem3D_26dec2008_inlined_v02.f90
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/cig/!svn/ver/20198/seismo/3D/SPECFEM3D/trunk/utils/solver_classical_serial_Fortran_or_C_no_MPI/slower_versions_not_so_good/serial_specfem3D_26dec2008_inlined_v02.f90
+END

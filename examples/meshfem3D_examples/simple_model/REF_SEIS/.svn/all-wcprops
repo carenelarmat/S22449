@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cig/!svn/ver/17523/seismo/3D/SPECFEM3D/trunk/examples/meshfem3D_examples/simple_model/REF_SEIS
+END
+K400-853.BXZ.gnuplot
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/cig/!svn/ver/17523/seismo/3D/SPECFEM3D/trunk/examples/meshfem3D_examples/simple_model/REF_SEIS/K400-853.BXZ.gnuplot
+END
+K400-853.BXZ.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/cig/!svn/ver/17523/seismo/3D/SPECFEM3D/trunk/examples/meshfem3D_examples/simple_model/REF_SEIS/K400-853.BXZ.pdf
+END
+K851.CE.BXZ.semd
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/cig/!svn/ver/17523/seismo/3D/SPECFEM3D/trunk/examples/meshfem3D_examples/simple_model/REF_SEIS/K851.CE.BXZ.semd
+END
+K853.CE.BXZ.semd
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/cig/!svn/ver/17523/seismo/3D/SPECFEM3D/trunk/examples/meshfem3D_examples/simple_model/REF_SEIS/K853.CE.BXZ.semd
+END
+K400.CE.BXZ.semd
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/cig/!svn/ver/17523/seismo/3D/SPECFEM3D/trunk/examples/meshfem3D_examples/simple_model/REF_SEIS/K400.CE.BXZ.semd
+END

@@ -22,6 +22,8 @@
 ! with this program; if not, write to the Free Software Foundation, Inc.,
 ! 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
 !
+
+! Modified Carene Larmat MODELING_ATMO; source depth in entered in km 
 !=====================================================================
 
 !----
@@ -262,6 +264,7 @@
       ! depth in CMTSOLUTION given in km
       z_target_source =  - depth(isource)*1000.0d0 + elevation(isource)
     endif
+!Carene Larmat Atmo_modeling
     if (MODELING_ATMO) then
       z_target_source = -depth(isource)*1000.0d0 
     endif

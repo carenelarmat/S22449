@@ -1,0 +1,407 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cig/!svn/ver/21983/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch
+END
+gmtst.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/gmtst.c
+END
+dgord.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/dgord.c
+END
+gmtst.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/gmtst.h
+END
+dgord.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/dgord.h
+END
+amk_hy.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/amk_hy.c
+END
+amk_p2.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/amk_p2.c
+END
+amk_hy.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/amk_hy.h
+END
+amk_p2.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/amk_p2.h
+END
+acpl.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/acpl.c
+END
+gtst.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/gtst.c
+END
+acpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/acpl.h
+END
+gtst.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/gtst.h
+END
+dgmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/dgmap.c
+END
+amk_fft2.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/amk_fft2.c
+END
+gord.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/gord.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cig/!svn/ver/21983/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/Makefile
+END
+dgmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/dgmap.h
+END
+amk_fft2.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/amk_fft2.h
+END
+gord.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/gord.h
+END
+gmk_m2.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/gmk_m2.c
+END
+gcv.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/gcv.c
+END
+gout_c.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/gout_c.c
+END
+gmk_m2.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/gmk_m2.h
+END
+gbase.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/gbase.c
+END
+mmk_m3.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/mmk_m3.c
+END
+gcv.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/gcv.h
+END
+gmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/gmap.c
+END
+gout_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/gout_c.h
+END
+mcv.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/mcv.c
+END
+gmk_ub2.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/gmk_ub2.c
+END
+gbase.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/gbase.h
+END
+mmk_m3.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/mmk_m3.h
+END
+gmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/gmap.h
+END
+mcv.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/mcv.h
+END
+gmk_ub2.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/gmk_ub2.h
+END
+gout_o.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/gout_o.c
+END
+gotst.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/gotst.c
+END
+gout_o.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/gout_o.h
+END
+dgscat.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/dgscat.c
+END
+gotst.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/gotst.h
+END
+dgscat.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/dgscat.h
+END
+atst.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/atst.c
+END
+gmk_hy.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/gmk_hy.c
+END
+atst.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/atst.h
+END
+gmk_hy.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/gmk_hy.h
+END
+gmk_msh.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/gmk_msh.c
+END
+mtst.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/mtst.c
+END
+gmk_msh.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/gmk_msh.h
+END
+mtst.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/mtst.h
+END
+dggath.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/dggath.c
+END
+mord.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/mord.c
+END
+gscat.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/gscat.c
+END
+dggath.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/dggath.h
+END
+mord.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/mord.h
+END
+gscat.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/gscat.h
+END
+amk_grf.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/amk_grf.c
+END
+amk_m2.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/amk_m2.c
+END
+amk_grf.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/amk_grf.h
+END
+amk_m2.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/amk_m2.h
+END
+gmk_m3.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/gmk_m3.c
+END
+amk_ccc.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/amk_ccc.c
+END
+gmk_m3.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/gmk_m3.h
+END
+mmk_m2.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/mmk_m2.c
+END
+dgtst.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/dgtst.c
+END
+amk_ccc.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/amk_ccc.h
+END
+mmk_m2.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/mmk_m2.h
+END
+dgtst.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/src/scotch/dgtst.h
+END

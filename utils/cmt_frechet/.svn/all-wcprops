@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cig/!svn/ver/20872/seismo/3D/SPECFEM3D/trunk/utils/cmt_frechet
+END
+cmt_frechet.csh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cig/!svn/ver/20872/seismo/3D/SPECFEM3D/trunk/utils/cmt_frechet/cmt_frechet.csh
+END
+cmt_frechet1.csh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cig/!svn/ver/20872/seismo/3D/SPECFEM3D/trunk/utils/cmt_frechet/cmt_frechet1.csh
+END
+go_solver_cmt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cig/!svn/ver/20872/seismo/3D/SPECFEM3D/trunk/utils/cmt_frechet/go_solver_cmt
+END
+cmt.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cig/!svn/ver/17495/seismo/3D/SPECFEM3D/trunk/utils/cmt_frechet/cmt.h
+END
+make_cmtsolution_files.f90
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cig/!svn/ver/17913/seismo/3D/SPECFEM3D/trunk/utils/cmt_frechet/make_cmtsolution_files.f90
+END

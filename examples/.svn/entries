@@ -1,0 +1,172 @@
+10
+
+dir
+22449
+http://geodynamics.org/svn/cig/seismo/3D/SPECFEM3D/trunk/examples
+http://geodynamics.org/svn/cig
+
+
+
+2013-06-25T14:22:10.296630Z
+22419
+danielpeter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+42e91aa9-f6fe-0310-9bd8-dd834c9eb30a
+
+homogeneous_halfspace_HEX8_elastic_no_absorbing
+dir
+
+noise_tomography
+dir
+
+view_all_parameter_files_to_modify_them.csh
+file
+
+
+
+
+2013-07-17T10:41:04.000000Z
+921d7fb2096a8c22c03d08289ea89964
+2013-06-25T14:13:49.138368Z
+22418
+danielpeter
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1795
+
+CPML_examples
+dir
+
+layered_halfspace
+dir
+
+tomographic_model
+dir
+
+homogeneous_poroelastic
+dir
+
+README
+file
+
+
+
+
+2013-07-17T10:41:04.000000Z
+0e7632bd913b99d4f26b7f7150e608ae
+2013-06-25T14:22:10.296630Z
+22419
+danielpeter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1852
+
+waterlayered_halfspace
+dir
+
+homogeneous_halfspace
+file
+
+
+
+
+2013-07-17T10:41:04.000000Z
+8c2515dfadecbc997f650deac22008ca
+2013-05-10T19:08:21.195753Z
+22029
+carltape
+has-props
+
+
+svn:special
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+58
+
+homogeneous_halfspace_HEX27_elastic_no_absorbing
+dir
+
+BENCHMARK_CLAERBOUT_ADJOINT
+dir
+
+Mount_StHelens
+dir
+
+homogeneous_halfspace_HEX8_elastic_absorbing_Stacey_5sides
+dir
+
+coffee_mug_with_fluid_inside
+dir
+
+fault_examples
+dir
+
+meshfem3D_examples
+dir
+

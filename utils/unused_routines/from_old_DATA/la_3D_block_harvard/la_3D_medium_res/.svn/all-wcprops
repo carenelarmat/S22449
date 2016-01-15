@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/la_3D_block_harvard/la_3D_medium_res
+END
+LA_MR_voxet_extracted.txt
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/la_3D_block_harvard/la_3D_medium_res/LA_MR_voxet_extracted.txt
+END
+check_block_openDX.f90
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/la_3D_block_harvard/la_3D_medium_res/check_block_openDX.f90
+END
+gocad_MR_grid_edges.dx
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/la_3D_block_harvard/la_3D_medium_res/gocad_MR_grid_edges.dx
+END
+read_gocad_block_extract_mediumres.f90
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/la_3D_block_harvard/la_3D_medium_res/read_gocad_block_extract_mediumres.f90
+END
+show_gocad_block.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/la_3D_block_harvard/la_3D_medium_res/show_gocad_block.cfg
+END
+show_gocad_block.net
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/from_old_DATA/la_3D_block_harvard/la_3D_medium_res/show_gocad_block.net
+END

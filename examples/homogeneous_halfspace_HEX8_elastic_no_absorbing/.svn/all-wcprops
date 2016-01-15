@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_no_absorbing
+END
+slices.txt
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/cig/!svn/ver/21767/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_no_absorbing/slices.txt
+END
+boundary_definition.py
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_no_absorbing/boundary_definition.py
+END
+plotall_comparison_seismograms.gnu
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/cig/!svn/ver/21853/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_no_absorbing/plotall_comparison_seismograms.gnu
+END
+HOWTO_run_this_example.txt
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/cig/!svn/ver/21767/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_no_absorbing/HOWTO_run_this_example.txt
+END
+this_regular_mesh_contains_36x36x16_elements.txt
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/cig/!svn/ver/21767/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_no_absorbing/this_regular_mesh_contains_36x36x16_elements.txt
+END
+block_mesh-anisotropic.py
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/cig/!svn/ver/21767/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_no_absorbing/block_mesh-anisotropic.py
+END
+process.sh
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/cig/!svn/ver/21767/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_no_absorbing/process.sh
+END
+cubit2specfem3d.py
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_no_absorbing/cubit2specfem3d.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cig/!svn/ver/21767/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_no_absorbing/README
+END
+README_kernel
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/cig/!svn/ver/21767/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_no_absorbing/README_kernel
+END
+block_mesh.py
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/cig/!svn/ver/21767/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_no_absorbing/block_mesh.py
+END
+picture_of_this_homogeneous_regular_mesh.png
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/cig/!svn/ver/21767/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_no_absorbing/picture_of_this_homogeneous_regular_mesh.png
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_poroelastic
+END
+boundary_definition.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_poroelastic/boundary_definition.py
+END
+cubit2specfem3d.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_poroelastic/cubit2specfem3d.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cig/!svn/ver/20958/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_poroelastic/README
+END
+block_mesh.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cig/!svn/ver/19026/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_poroelastic/block_mesh.py
+END

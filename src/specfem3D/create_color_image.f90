@@ -37,13 +37,22 @@
   !   type = 2 : displ/velocity y-component
   !   type = 3 : displ/velocity z-component
   !   type = 4 : displ/velocity norm
-  integer,parameter:: IMAGE_TYPE = 4 ! 4
+  integer,parameter:: IMAGE_TYPE = 3 ! 4
 
   ! cross-section surface
   ! cross-section origin point
-  real(kind=CUSTOM_REAL),parameter:: section_xorg = 292547.0 ! 67000.0
-  real(kind=CUSTOM_REAL),parameter:: section_yorg = -2187095.0 ! 0.0
-  real(kind=CUSTOM_REAL),parameter:: section_zorg = 250000.0 ! 100000.0! 100000.0 ! 0.0
+  real(kind=CUSTOM_REAL),parameter:: section_xorg = 0.0 ! 67000.0
+  real(kind=CUSTOM_REAL),parameter:: section_yorg = 0.0 ! 0.0
+  real(kind=CUSTOM_REAL),parameter:: section_zorg = -100.0 ! 0.0
+
+!Carene trial on image
+!C  integer,parameter:: IMAGE_TYPE = 4 ! 4
+!C
+!C  ! cross-section surface
+!C  ! cross-section origin point
+!C  real(kind=CUSTOM_REAL),parameter:: section_xorg = 292547.0 ! 67000.0
+!C  real(kind=CUSTOM_REAL),parameter:: section_yorg = -2187095.0 ! 0.0
+!C  real(kind=CUSTOM_REAL),parameter:: section_zorg = 250000.0 ! 100000.0! 100000.0 ! 0.0
 
   ! cross-section surface normal
   real(kind=CUSTOM_REAL),parameter:: section_nx = 0.0 !1.0
@@ -164,18 +173,6 @@
                             section_xorg,section_yorg,section_zorg, &
                             section_nx,section_ny,section_nz, &
                             xstore,ystore,zstore,myrank)
-
-!  call detect_surface_PNM_image(NPROC,NGLOB_AB,NSPEC_AB,ibool,&
-!                            ispec_is_image_surface, &
-!                            iglob_is_image_surface, &
-!                            num_iglob_image_surface, &
-!                            num_interfaces_ext_mesh,max_nibool_interfaces_ext_mesh,&
-!                            nibool_interfaces_ext_mesh,my_neighbours_ext_mesh, &
-!                            ibool_interfaces_ext_mesh,&
-!                            section_xorg,section_yorg,section_zorg, &
-!                            section_vdirx,section_vdiry,section_vdirz, &
-!                            xstore,ystore,zstore,myrank)
-
 
   ! extracts points on surface
   allocate( xcoord(num_iglob_image_surface),&

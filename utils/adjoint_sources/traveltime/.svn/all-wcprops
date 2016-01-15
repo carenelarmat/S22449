@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cig/!svn/ver/20451/seismo/3D/SPECFEM3D/trunk/utils/adjoint_sources/traveltime
+END
+create_adjsrc_traveltime.f90
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cig/!svn/ver/20451/seismo/3D/SPECFEM3D/trunk/utils/adjoint_sources/traveltime/create_adjsrc_traveltime.f90
+END
+compile_cut
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cig/!svn/ver/18179/seismo/3D/SPECFEM3D/trunk/utils/adjoint_sources/traveltime/compile_cut
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cig/!svn/ver/18179/seismo/3D/SPECFEM3D/trunk/utils/adjoint_sources/traveltime/Makefile
+END

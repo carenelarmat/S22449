@@ -145,7 +145,7 @@
 
     ! write the seismograms with time shift (GPU_MODE transfer included)
     if (nrec_local > 0 .or. ( WRITE_SEISMOGRAMS_BY_MASTER .and. myrank == 0 ) ) then
-! Carene TEST GRADIENT AT ITERATE LEVEL ELASTIC
+! Carene TEST GRADIENT AT ITERATE LEVEL ELASTIC for DERIVATIVE_SEISMOS
 !      veloc(1,:) = 8.00*xstore(:)+5.00*ystore(:)+10.0*zstore(:)
 !      veloc(2,:) = 8.00*xstore(:)+5.00*ystore(:)+10.0*zstore(:)
 !      veloc(3,:) = 8.00*xstore(:)+5.00*ystore(:)+10.0*zstore(:)

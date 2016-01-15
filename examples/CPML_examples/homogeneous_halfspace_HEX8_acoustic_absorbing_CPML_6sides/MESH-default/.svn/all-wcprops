@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/homogeneous_halfspace_HEX8_acoustic_absorbing_CPML_6sides/MESH-default
+END
+absorbing_cpml_file
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/homogeneous_halfspace_HEX8_acoustic_absorbing_CPML_6sides/MESH-default/absorbing_cpml_file
+END
+materials_file
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/homogeneous_halfspace_HEX8_acoustic_absorbing_CPML_6sides/MESH-default/materials_file
+END
+nodes_coords_file
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/homogeneous_halfspace_HEX8_acoustic_absorbing_CPML_6sides/MESH-default/nodes_coords_file
+END
+absorbing_surface_file_bottom
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/homogeneous_halfspace_HEX8_acoustic_absorbing_CPML_6sides/MESH-default/absorbing_surface_file_bottom
+END
+absorbing_surface_file_xmin
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/homogeneous_halfspace_HEX8_acoustic_absorbing_CPML_6sides/MESH-default/absorbing_surface_file_xmin
+END
+absorbing_surface_file_ymin
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/homogeneous_halfspace_HEX8_acoustic_absorbing_CPML_6sides/MESH-default/absorbing_surface_file_ymin
+END
+absorbing_surface_file_xmax
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/homogeneous_halfspace_HEX8_acoustic_absorbing_CPML_6sides/MESH-default/absorbing_surface_file_xmax
+END
+absorbing_surface_file_ymax
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/homogeneous_halfspace_HEX8_acoustic_absorbing_CPML_6sides/MESH-default/absorbing_surface_file_ymax
+END
+mesh_file
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/homogeneous_halfspace_HEX8_acoustic_absorbing_CPML_6sides/MESH-default/mesh_file
+END
+nummaterial_velocity_file
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/homogeneous_halfspace_HEX8_acoustic_absorbing_CPML_6sides/MESH-default/nummaterial_velocity_file
+END
+free_or_absorbing_surface_file_zmax
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples/homogeneous_halfspace_HEX8_acoustic_absorbing_CPML_6sides/MESH-default/free_or_absorbing_surface_file_zmax
+END

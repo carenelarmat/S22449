@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cig/!svn/ver/21822/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_absorbing_Stacey_5sides/MESH-default
+END
+materials_file
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/cig/!svn/ver/21767/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_absorbing_Stacey_5sides/MESH-default/materials_file
+END
+nodes_coords_file
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/cig/!svn/ver/21767/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_absorbing_Stacey_5sides/MESH-default/nodes_coords_file
+END
+absorbing_surface_file_bottom
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/cig/!svn/ver/21767/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_absorbing_Stacey_5sides/MESH-default/absorbing_surface_file_bottom
+END
+absorbing_surface_file_xmin
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/cig/!svn/ver/21767/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_absorbing_Stacey_5sides/MESH-default/absorbing_surface_file_xmin
+END
+absorbing_surface_file_ymin
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/cig/!svn/ver/21767/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_absorbing_Stacey_5sides/MESH-default/absorbing_surface_file_ymin
+END
+absorbing_surface_file_xmax
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/cig/!svn/ver/21767/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_absorbing_Stacey_5sides/MESH-default/absorbing_surface_file_xmax
+END
+absorbing_surface_file_ymax
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/cig/!svn/ver/21767/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_absorbing_Stacey_5sides/MESH-default/absorbing_surface_file_ymax
+END
+mesh_file
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/cig/!svn/ver/21767/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_absorbing_Stacey_5sides/MESH-default/mesh_file
+END
+nummaterial_velocity_file
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/cig/!svn/ver/21822/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_absorbing_Stacey_5sides/MESH-default/nummaterial_velocity_file
+END
+free_or_absorbing_surface_file_zmax
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/cig/!svn/ver/21818/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_absorbing_Stacey_5sides/MESH-default/free_or_absorbing_surface_file_zmax
+END

@@ -22,6 +22,9 @@
 ! with this program; if not, write to the Free Software Foundation, Inc.,
 ! 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
 !
+
+! Modified Carene Larmat add subroutine compute_interpolated_dva_div that will
+! compute the divergence; curl remains to be added 
 !=====================================================================
 
 
@@ -220,9 +223,9 @@ subroutine compute_interpolated_dva_ac(displ_element,veloc_element,&
   endif
 
 end subroutine compute_interpolated_dva_ac
+
 !
 !Carene compute the divergence and curl 
-
 subroutine compute_interpolated_dva_div(displ,veloc,accel,NGLOB_AB, &
                         ispec,NSPEC_AB,&
                         xix,xiy,xiz,etax,etay,etaz,gammax,gammay,gammaz, &

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cig/!svn/ver/20923/seismo/3D/SPECFEM3D/trunk/examples/BENCHMARK_CLAERBOUT_ADJOINT/ELASTIC/DATA/meshfem3D_files
+END
+interface3.dat
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cig/!svn/ver/20923/seismo/3D/SPECFEM3D/trunk/examples/BENCHMARK_CLAERBOUT_ADJOINT/ELASTIC/DATA/meshfem3D_files/interface3.dat
+END
+interfaces.dat
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cig/!svn/ver/20923/seismo/3D/SPECFEM3D/trunk/examples/BENCHMARK_CLAERBOUT_ADJOINT/ELASTIC/DATA/meshfem3D_files/interfaces.dat
+END
+Mesh_Par_file
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/cig/!svn/ver/20923/seismo/3D/SPECFEM3D/trunk/examples/BENCHMARK_CLAERBOUT_ADJOINT/ELASTIC/DATA/meshfem3D_files/Mesh_Par_file
+END

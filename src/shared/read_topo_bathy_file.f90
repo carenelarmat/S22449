@@ -191,8 +191,6 @@
       typical_size =  (xstore(ibool(1,1,1,ispec)) - xstore(ibool(NGLLX,NGLLY,NGLLZ,ispec)))**2 &
                     + (ystore(ibool(1,1,1,ispec)) - ystore(ibool(NGLLX,NGLLY,NGLLZ,ispec)))**2
       ! use 10 times the distance as a criterion for point detection
-!Debug
-  write(102,*) num_free_surface_faces,shape(free_surface_ijk),shape(free_surface_ispec),typical_size
       typical_size = 10. * typical_size
     endif
 

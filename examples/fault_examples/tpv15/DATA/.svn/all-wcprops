@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/fault_examples/tpv15/DATA
+END
+FAULT_STATIONS
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/fault_examples/tpv15/DATA/FAULT_STATIONS
+END
+Par_file_faults
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/fault_examples/tpv15/DATA/Par_file_faults
+END
+CMTSOLUTION
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/fault_examples/tpv15/DATA/CMTSOLUTION
+END
+Par_file
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/fault_examples/tpv15/DATA/Par_file
+END
+STATIONS
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/fault_examples/tpv15/DATA/STATIONS
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/fault_examples/tpv15
+END
+absorbing_boundary.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/fault_examples/tpv15/absorbing_boundary.py
+END
+tpv15_inner.tiff
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/fault_examples/tpv15/tpv15_inner.tiff
+END
+save_fault_nodes_elements.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/fault_examples/tpv15/save_fault_nodes_elements.py
+END
+tpv15.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/fault_examples/tpv15/tpv15.py
+END
+tpv15.tiff
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/fault_examples/tpv15/tpv15.tiff
+END
+cubit2specfem3d.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/fault_examples/tpv15/cubit2specfem3d.py
+END

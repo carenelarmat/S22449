@@ -21,6 +21,8 @@
 ! You should have received a copy of the GNU General Public License along
 ! with this program; if not, write to the Free Software Foundation, Inc.,
 ! 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
+
+! Modified Carene Larmat MODELING_ATMO flag to change behavior of location receivers/sources
 !
 !=====================================================================
 
@@ -220,7 +222,7 @@
   logical, parameter :: SOURCES_CAN_BE_BURIED = .true.
 
 ! sources and receivers Z coordinates given directly instead of with depth
-  logical, parameter :: USE_SOURCES_RECEIVERS_Z = .false.
+  logical, parameter :: USE_SOURCES_RECEIVERS_Z = .true.
 ! new flag for atmospheric modeling 0 is at the top of ocean or solid
 ! MAKE SURE THAN SOURCE AND RECEIVERS CAN BE BURIED ARE SET AS TRUE
   logical, parameter :: MODELING_ATMO = .true.
@@ -236,13 +238,19 @@
 !! image outputs
 !!
 !!-----------------------------------------------------------
+
 ! plots VTK cross-section planes instead of model surface
 ! (EXPERIMENTAL feature)
 ! (requires MOVIE_SURFACE set to .true. in Par_file)
-  logical, parameter :: PLOT_CROSS_SECTIONS = .true.
-  real(kind=CUSTOM_REAL),parameter :: CROSS_SECTION_X = 371041.0
-  real(kind=CUSTOM_REAL),parameter :: CROSS_SECTION_Y = 999999.0
-  real(kind=CUSTOM_REAL),parameter :: CROSS_SECTION_Z = 10.0
+  logical, parameter :: PLOT_CROSS_SECTIONS = .false.
+  real(kind=CUSTOM_REAL),parameter :: CROSS_SECTION_X = 67000.0
+  real(kind=CUSTOM_REAL),parameter :: CROSS_SECTION_Y = 65500.0
+  real(kind=CUSTOM_REAL),parameter :: CROSS_SECTION_Z = -30000.0
+!=== case KELUD
+!  logical, parameter :: PLOT_CROSS_SECTIONS = .true.
+!  real(kind=CUSTOM_REAL),parameter :: CROSS_SECTION_X = 371041.0
+!  real(kind=CUSTOM_REAL),parameter :: CROSS_SECTION_Y = 999999.0
+!  real(kind=CUSTOM_REAL),parameter :: CROSS_SECTION_Z = 200000.0
 
 ! plots PNM cross-section image
 ! (EXPERIMENTAL feature)
@@ -255,7 +263,6 @@
 ! sensitive to actual size of model, assumes reference sphere of radius 1
 ! this is an absolute value for normalized coordinates in the Earth
   double precision, parameter :: SMALLVAL_TOL = 1.d-10
-
 
 !!-----------------------------------------------------------
 !!

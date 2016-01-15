@@ -170,7 +170,6 @@
     ! determines minimum/maximum velocities within this element
     call get_vpvs_minmax(vpmin,vpmax,vsmin,vsmax,ispec,has_vs_zero, &
                         NSPEC_AB,kappastore,mustore,rho_vp,rho_vs)
-    !    print*, vpmin, vpmax       
     ! min/max for whole cpu partition
     vpmin_glob = min(vpmin_glob, vpmin)
     vpmax_glob = max(vpmax_glob, vpmax)
@@ -249,7 +248,6 @@
   ! Vp velocity
   vpmin = vpmin_glob
   vpmax = vpmax_glob
-!    print*, vpmin, vpmin_glob
   call min_all_cr(vpmin,vpmin_glob)
   call max_all_cr(vpmax,vpmax_glob)
 

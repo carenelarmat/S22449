@@ -22,6 +22,8 @@
 ! with this program; if not, write to the Free Software Foundation, Inc.,
 ! 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
 !
+
+! Modified Carene Larmat starting to mess up with the Ricker function
 !=====================================================================
 
   double precision function comp_source_time_function(t,hdur)
@@ -81,17 +83,20 @@
   include "constants.h"
 
   double precision t,f0
-!Carene - following Marcel Ricker 
-  double precision t0
 
-  ! ricker
+!Carene - Adding quickly a shift of the Ricker 
+! the shift to is defined as a local constant
+  double precision , parameter :: t0=0.d0
+
 !Debug
-  write(33,*) f0
-!  t0=1/f0
-   t0=0.d0
+!  write(33,*) f0
   
+  ! ricker
   comp_source_time_function_rickr = (1.d0 - 2.d0*PI*PI*f0*f0*(t-t0)*(t-t0) ) &
                                     * exp( -PI*PI*f0*f0*(t-t0)*(t-t0) )
+!old call
+!  comp_source_time_function_rickr = (1.d0 - 2.d0*PI*PI*f0*f0*t*t ) &
+!                                    * exp( -PI*PI*f0*f0*t*t )
 
   !!! another source time function they have called 'ricker' in some old papers,
   !!! e.g., 'Finite-Frequency Kernels Based on Adjoint Methods' by Liu & Tromp, BSSA (2006)

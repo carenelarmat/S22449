@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 40
+*.mod
+constants.h
+Makefile
+precision.h
+
+
+END

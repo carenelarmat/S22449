@@ -43,7 +43,7 @@ CUDA_INC =  -I../../
 MPI_INC = 
 
 #NVCC = nvcc
-NVCC = /usr/projects/hpcsoft/toss2.1/common/intel/2011.11.339/composer_xe_2011.11.339/bin/intel64/icc
+NVCC = /usr/projects/hpcsoft/toss2/common/intel/2015.5.223/composer_xe_2015.5.223/bin/intel64/icc
 
 
 #NVCC_FLAGS_BASE = $(CUDA_INC) $(MPI_INC) $(COND_MPI_CPPFLAGS) 
@@ -65,11 +65,11 @@ OPENMP_LIBS =
 COND_OPENMP_FFLAGS =
 
 
-FC = ifort
+FC = /usr/projects/hpcsoft/toss2/common/intel/2015.5.223/composer_xe_2015.5.223/bin/intel64/ifort
 FCFLAGS = #-g
 MPIFC = mpif90
 MPILIBS = 
-FLAGS_CHECK = -axAVX,SSE4.2 -xHost -fpe0 -ftz -assume buffered_io -assume byterecl -align sequence -vec-report0 -std03 -diag-disable 6477 -implicitnone -warn all -O3 -check nobounds -DFORCE_VECTORIZATION
+FLAGS_CHECK = -O3 -check nobounds -DFORCE_VECTORIZATION -xHost -ftz -assume buffered_io -assume byterecl -align sequence -vec-report0 -implicitnone -warn truncated_source -warn argument_checking -warn unused -warn declarations -warn alignments -warn ignore_loc -warn usage
 FCFLAGS_f90 = 
 
 
@@ -90,8 +90,8 @@ MPIFCCOMPILE_CHECK = ${MPIFC} ${FCFLAGS} $(FLAGS_CHECK) $(COND_OPENMP_FFLAGS) -I
 FCLINK = $(MPIFCCOMPILE_CHECK)
 #FCLINK = $(FCCOMPILE_CHECK)
 
-CC = /usr/projects/hpcsoft/toss2.1/common/intel/2011.11.339/composer_xe_2011.11.339/bin/intel64/icc
-CFLAGS =-axAVX,SSE4.2  $(CPPFLAGS)
+CC = /usr/projects/hpcsoft/toss2/common/intel/2015.5.223/composer_xe_2015.5.223/bin/intel64/icc
+CFLAGS = -g -O2 $(CPPFLAGS)
 CPPFLAGS =  -I/usr/include/scotch $(COND_MPI_CPPFLAGS)
 COND_MPI_CPPFLAGS = -DWITH_MPI
 #COND_MPI_CPPFLAGS =
@@ -318,7 +318,7 @@ model_update: xmodel_update
 xconvolve_source_timefunction: $O/convolve_source_timefunction.shared.o
 	${FCCOMPILE_CHECK} -o  ${E}/xconvolve_source_timefunction $O/convolve_source_timefunction.shared.o
 
-xcreate_movie_shakemap_AVS_DX_GMT: $O/create_movie_shakemap_AVS_DX_GMT.shared.o $(LIBSPECFEM) #$(OUTPUT)/surface_from_mesher.h
+xcreate_movie_shakemap_AVS_DX_GMT: $O/create_movie_shakemap_AVS_DX_GMT.shared.o $(LIBSPECFEM) $(OUTPUT)/surface_from_mesher.h
 	${FCCOMPILE_CHECK} -o  ${E}/xcreate_movie_shakemap_AVS_DX_GMT $O/create_movie_shakemap_AVS_DX_GMT.shared.o $(LIBSPECFEM) -I$(OUTPUT)
 
 xcombine_vol_data: $O/combine_vol_data.shared.o $O/write_c_binary.cc.o $O/read_parameter_file.shared.o $O/read_value_parameters.shared.o $O/get_value_parameters.shared.o $O/param_reader.cc.o

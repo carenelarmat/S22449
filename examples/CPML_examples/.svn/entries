@@ -1,0 +1,83 @@
+10
+
+dir
+22449
+http://geodynamics.org/svn/cig/seismo/3D/SPECFEM3D/trunk/examples/CPML_examples
+http://geodynamics.org/svn/cig
+
+
+
+2013-06-25T14:13:49.138368Z
+22418
+danielpeter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+42e91aa9-f6fe-0310-9bd8-dd834c9eb30a
+
+homogeneous_halfspace_HEX8_acoustic_absorbing_CPML_5sides
+dir
+
+homogeneous_halfspace_HEX8_acoustic_absorbing_CPML_6sides
+dir
+
+homogeneous_halfspace_HEX8_acoustic_elastic_absorbing_CPML_5sides
+dir
+
+homogeneous_halfspace_HEX8_acoustic_elastic_absorbing_CPML_6sides
+dir
+
+homogeneous_halfspace_HEX8_elastic_absorbing_CPML_5sides
+dir
+
+homogeneous_halfspace_HEX8_elastic_absorbing_CPML_6sides
+dir
+
+CPML_realistic_mesh_with_topography
+dir
+
+README
+file
+
+
+
+
+2013-07-17T10:40:40.000000Z
+128a5fb57891b898e8c401ad644ef919
+2013-06-25T14:13:49.138368Z
+22418
+danielpeter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+405
+

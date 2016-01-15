@@ -1,0 +1,9 @@
+Version ATMO 
+
+List of Modifications:
+-DERIVATIVE SEISMOGRAMS AND SEISMOGRAMS: vel and div for "DER" seismo; velocity for normal
+-surface.h has to be put in the same directory than /create_movie_shakemap_AVS_DX_GMT.f90
+-Location of receivers and sources modified
+  * BEHAVIOR CHANGED through USE_SOURCES_RECEIVERS_Z and MODELING_ATMO set to true in constants.h
+  receivers: stbur(irec) given in km - line 391 in locate_receivers
+  sources: depth is entered in km - line 269 in locate_sources

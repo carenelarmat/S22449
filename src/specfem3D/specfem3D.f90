@@ -355,8 +355,6 @@
 ! sets up and precomputes simulation arrays
   call prepare_timerun()
 
-!Debug 
-!  stop
 ! steps through time iterations
   call iterate_time()
 

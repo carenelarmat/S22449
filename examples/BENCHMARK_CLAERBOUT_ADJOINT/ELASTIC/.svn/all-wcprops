@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cig/!svn/ver/21809/seismo/3D/SPECFEM3D/trunk/examples/BENCHMARK_CLAERBOUT_ADJOINT/ELASTIC
+END
+postprocessing.f90
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cig/!svn/ver/20873/seismo/3D/SPECFEM3D/trunk/examples/BENCHMARK_CLAERBOUT_ADJOINT/ELASTIC/postprocessing.f90
+END
+run_inhomogeneous.bash
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/cig/!svn/ver/20873/seismo/3D/SPECFEM3D/trunk/examples/BENCHMARK_CLAERBOUT_ADJOINT/ELASTIC/run_inhomogeneous.bash
+END
+adj_seismogram.f90
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cig/!svn/ver/20873/seismo/3D/SPECFEM3D/trunk/examples/BENCHMARK_CLAERBOUT_ADJOINT/ELASTIC/adj_seismogram.f90
+END
+random_model_generation.f90
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/cig/!svn/ver/20873/seismo/3D/SPECFEM3D/trunk/examples/BENCHMARK_CLAERBOUT_ADJOINT/ELASTIC/random_model_generation.f90
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cig/!svn/ver/18942/seismo/3D/SPECFEM3D/trunk/examples/BENCHMARK_CLAERBOUT_ADJOINT/ELASTIC/README
+END

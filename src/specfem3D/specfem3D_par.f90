@@ -22,6 +22,8 @@
 ! with this program; if not, write to the Free Software Foundation, Inc.,
 ! 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
 !
+
+! Modified Carene Larmat add variables for SEIMOGRAMS DERIVATIVES
 !=====================================================================
 !
 ! United States and French Government Sponsorship Acknowledged.
@@ -139,6 +141,8 @@ module specfem_par
 
 ! seismograms
   real(kind=CUSTOM_REAL), dimension(:,:,:), allocatable :: seismograms_d,seismograms_v,seismograms_a
+
+! DIV and curl for seismograms - Carene Larmat 
   logical, parameter :: DERIVATIVES_SEISMOS = .true.
   real(kind=CUSTOM_REAL), dimension(:,:,:), allocatable :: seismograms_der
 

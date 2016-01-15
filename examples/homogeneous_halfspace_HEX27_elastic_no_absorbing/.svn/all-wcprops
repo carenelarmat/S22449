@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cig/!svn/ver/21862/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX27_elastic_no_absorbing
+END
+boundary_definition.py
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cig/!svn/ver/21767/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX27_elastic_no_absorbing/boundary_definition.py
+END
+plotall_comparison_seismograms.gnu
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/cig/!svn/ver/21853/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX27_elastic_no_absorbing/plotall_comparison_seismograms.gnu
+END
+HOWTO_run_this_example.txt
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/cig/!svn/ver/21767/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX27_elastic_no_absorbing/HOWTO_run_this_example.txt
+END
+block_mesh-anisotropic.py
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/cig/!svn/ver/21767/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX27_elastic_no_absorbing/block_mesh-anisotropic.py
+END
+run_boundary_definition.py
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/cig/!svn/ver/21767/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX27_elastic_no_absorbing/run_boundary_definition.py
+END
+cubit2specfem3d.py
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/cig/!svn/ver/21767/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX27_elastic_no_absorbing/cubit2specfem3d.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cig/!svn/ver/21767/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX27_elastic_no_absorbing/README
+END
+block_mesh.py
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/cig/!svn/ver/21767/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX27_elastic_no_absorbing/block_mesh.py
+END
+run_cubit2specfem3d.py
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cig/!svn/ver/21767/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX27_elastic_no_absorbing/run_cubit2specfem3d.py
+END

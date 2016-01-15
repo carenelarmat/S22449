@@ -22,6 +22,10 @@
 ! with this program; if not, write to the Free Software Foundation, Inc.,
 ! 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
 !
+
+! Modified Carene Larmat MODELING_ATMO; stbur is used as the altitude of the
+! receiver (entered in km)
+! NB: Z is positive upward; 0 is the ground level
 !=====================================================================
 
 !----
@@ -150,10 +154,6 @@
   ! SU_FORMAT parameters
   double precision :: llat,llon,lele,lbur
   logical :: SU_station_file_exists
-
-  !Carene Debug
-!  character(len=100) fname
-!  integer :: iface,igll,jgll,kgll
 
   ! get MPI starting time
   time_start = wtime()
@@ -290,11 +290,6 @@
           nu_all(3,3,nrec),stat=ier)
   if( ier /= 0 ) stop 'error allocating arrays for locating receivers'
 
-!    fname=''
-!    write(fname,'(i4.4)') myrank
-!    fname='store_'//trim(fname)//'.out'
-!    open(103,file=fname,status='replace')
-
   ! loop on all the stations
   do irec=1,nrec
 
@@ -395,6 +390,7 @@
       ! burial depth in STATIONS file given in m
       z_target(irec) = elevation(irec) - stbur(irec)
     endif
+
     if (MODELING_ATMO) then
       z_target(irec) = stbur(irec)*1000.0d0
     endif
@@ -472,11 +468,6 @@
 
       ! end of loop on all the spectral elements in current slice
       enddo
-   !Debug
-!   if (ispec_selected_rec(irec)>0) then 
-!      write(103,*) '1 ',irec,x_found(irec),y_found(irec),z_found(irec)
-!      write(103,*) '1b ',irec,xi_receiver(irec),gamma_receiver(irec)
-!   endif
 
     else
       ! SeismicUnix format
@@ -488,9 +479,6 @@
       if ( (x_target(irec)>=xmin .and. x_target(irec)<=xmax) .and. &
           (y_target(irec)>=ymin .and. y_target(irec)<=ymax) .and. &
           (z_target(irec)>=zmin .and. z_target(irec)<=zmax) ) then
-!Debug
-        write(*,*) ' ME ',iproc,xmin,xmax,ymin,ymax,zmin,zmax
-        write(IMAIN,*) ' ME ',iproc,xmin,xmax,ymin,ymax,zmin,zmax
         do ispec=1,NSPEC_AB
           iglob_temp=reshape(ibool(:,:,:,ispec),(/NGLLX*NGLLY*NGLLZ/))
           xmin_ELE=minval(xstore(iglob_temp))
@@ -824,12 +812,6 @@
       final_distance(irec) = dsqrt((x_target(irec)-x_found(irec))**2 + &
         (y_target(irec)-y_found(irec))**2 + (z_target(irec)-z_found(irec))**2)
 
-   !Debug
-!   if (ispec_selected_rec(irec)>0) then 
-!      write(103,*) '2 ',irec,x_found(irec),y_found(irec),z_found(irec)
-!      write(103,*) '2b ',irec,xi_receiver(irec),gamma_receiver(irec)
-!   endif
-
     enddo
 
   endif ! of if (.not. FASTER_RECEIVERS_POINTS_ONLY)
@@ -874,15 +856,8 @@
            endif
         enddo
      enddo
-!          do irec=1,nrec
-!          !Debug
-!           write(103,*) 'found ',irec,x_found(irec),y_found(irec),z_found(irec)
-!           write(103,*) 'found b',irec,islice_selected_rec(irec),ispec_selected_rec(irec)
-!          enddo
   endif
 
-!Debug
-!    close(103)
   ! this is executed by main process only
   if(myrank == 0) then
 

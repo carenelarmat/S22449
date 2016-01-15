@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cig/!svn/ver/20873/seismo/3D/SPECFEM3D/trunk/utils/Cluster/sge
+END
+go_generate_databases_sge.bash
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cig/!svn/ver/20873/seismo/3D/SPECFEM3D/trunk/utils/Cluster/sge/go_generate_databases_sge.bash
+END
+go_solver_sge.bash
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cig/!svn/ver/20873/seismo/3D/SPECFEM3D/trunk/utils/Cluster/sge/go_solver_sge.bash
+END
+run_sge.bash
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/Cluster/sge/run_sge.bash
+END

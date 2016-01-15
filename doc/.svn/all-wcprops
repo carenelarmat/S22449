@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/cig/!svn/ver/22439/seismo/3D/SPECFEM3D/trunk/doc
+END
+time_scheme_we_use_in_the_code_from_Hughes_1987.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cig/!svn/ver/21981/seismo/3D/SPECFEM3D/trunk/doc/time_scheme_we_use_in_the_code_from_Hughes_1987.pdf
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/doc/LICENSE
+END
+PML_CUBIT_notes_from_Emanuele_Casarotti_16oct2012.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cig/!svn/ver/21638/seismo/3D/SPECFEM3D/trunk/doc/PML_CUBIT_notes_from_Emanuele_Casarotti_16oct2012.pdf
+END
+how_to_properly_detect_all_MPI_or_PML_edges.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cig/!svn/ver/20630/seismo/3D/SPECFEM3D/trunk/doc/how_to_properly_detect_all_MPI_or_PML_edges.pdf
+END
+README_gravityPerturbation bis.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cig/!svn/ver/22337/seismo/3D/SPECFEM3D/trunk/doc/README_gravityPerturbation%20bis.txt
+END

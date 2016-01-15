@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/examples
+END
+scotch_example_1.f
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/examples/scotch_example_1.f
+END
+scotch_example_2.f90
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cig/!svn/ver/20959/seismo/3D/SPECFEM3D/trunk/src/decompose_mesh/scotch_5.1.12b/examples/scotch_example_2.f90
+END

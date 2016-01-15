@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cig/!svn/ver/17984/seismo/3D/SPECFEM3D/trunk/utils/seis_process
+END
+process_data.pl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cig/!svn/ver/17780/seismo/3D/SPECFEM3D/trunk/utils/seis_process/process_data.pl
+END
+process_syn.pl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cig/!svn/ver/17780/seismo/3D/SPECFEM3D/trunk/utils/seis_process/process_syn.pl
+END
+phtimes.csh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cig/!svn/ver/17483/seismo/3D/SPECFEM3D/trunk/utils/seis_process/phtimes.csh
+END
+rotate.pl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cig/!svn/ver/17501/seismo/3D/SPECFEM3D/trunk/utils/seis_process/rotate.pl
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cig/!svn/ver/17483/seismo/3D/SPECFEM3D/trunk/utils/seis_process/readme.txt
+END
+ascii2sac.csh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cig/!svn/ver/17483/seismo/3D/SPECFEM3D/trunk/utils/seis_process/ascii2sac.csh
+END
+ascii_2_sep.f90
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cig/!svn/ver/17984/seismo/3D/SPECFEM3D/trunk/utils/seis_process/ascii_2_sep.f90
+END

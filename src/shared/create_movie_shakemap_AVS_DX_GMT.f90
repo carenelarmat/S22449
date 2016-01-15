@@ -22,6 +22,9 @@
 ! with this program; if not, write to the Free Software Foundation, Inc.,
 ! 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
 !
+
+! Modified Carene Larmat surface_from_mesher.h in the src/shared directory where
+! is the source of create_movie
 !=====================================================================
 
 !
@@ -35,7 +38,11 @@
   implicit none
 
   include "constants.h"
+!Carene the output files are on scratch so better to copy it in the same
+!directory instead of creating a whole directory tree 
   include "./surface_from_mesher.h"
+!old 
+!  include "../../OUTPUT_FILES/surface_from_mesher.h"
 
 !-------------------------------------------------------------------------------------------------
 ! user parameters

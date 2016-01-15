@@ -37,11 +37,11 @@ O = ../../obj/mesh
 # L : libraries directory
 L = ../../lib
 
-FC = ifort
+FC = /usr/projects/hpcsoft/toss2/common/intel/2015.5.223/composer_xe_2015.5.223/bin/intel64/ifort
 FCFLAGS = #-g
 MPIFC = mpif90
 MPILIBS = 
-FLAGS_CHECK = -axAVX,SSE4.2 -xHost -fpe0 -ftz -assume buffered_io -assume byterecl -align sequence -vec-report0 -std03 -diag-disable 6477 -implicitnone -warn all -O3 -check nobounds -DFORCE_VECTORIZATION
+FLAGS_CHECK = -O3 -check nobounds -DFORCE_VECTORIZATION -xHost -ftz -assume buffered_io -assume byterecl -align sequence -vec-report0 -implicitnone -warn truncated_source -warn argument_checking -warn unused -warn declarations -warn alignments -warn ignore_loc -warn usage
 FCFLAGS_f90 = 
 
 FCCOMPILE_CHECK = ${FC} ${FCFLAGS} $(FLAGS_CHECK) -I${SHARED}
@@ -49,8 +49,8 @@ MPIFCCOMPILE_CHECK = ${MPIFC} ${FCFLAGS} $(FLAGS_CHECK) -I${SHARED}
 FCLINK = $(MPIFCCOMPILE_CHECK)
 #FCLINK = $(FCCOMPILE_CHECK)
 
-CC = /usr/projects/hpcsoft/toss2.1/common/intel/2011.11.339/composer_xe_2011.11.339/bin/intel64/icc
-CFLAGS =-axAVX,SSE4.2  $(CPPFLAGS)
+CC = /usr/projects/hpcsoft/toss2/common/intel/2015.5.223/composer_xe_2015.5.223/bin/intel64/icc
+CFLAGS = -g -O2 $(CPPFLAGS)
 CPPFLAGS =  -I/usr/include/scotch $(COND_MPI_CPPFLAGS)
 COND_MPI_CPPFLAGS = -DWITH_MPI
 #COND_MPI_CPPFLAGS =
@@ -61,7 +61,7 @@ RANLIB = ranlib
 
 # extra defines for the Pyrized version
 #MPICC = mpicc
-#FCLIBS =  -L/turquoise/usr/projects/hpcsoft/toss2.1/common/intel/2011.11.339/composer_xe_2011.11.339/compiler/lib/intel64 -L/var/lib/perceus/vnfs/fe/rootfs/usr/bin/../lib/gcc/x86_64-redhat-linux/4.4.7 -L/var/lib/perceus/vnfs/fe/rootfs/usr/bin/../lib/gcc -L/usr/lib/gcc/x86_64-redhat-linux/4.4.7 -L/var/lib/perceus/vnfs/fe/rootfs/usr/bin/../lib/gcc/x86_64-redhat-linux/4.4.7/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/var/lib/perceus/vnfs/fe/rootfs/usr/bin/../lib/gcc/x86_64-redhat-linux/4.4.7/../../.. -L/lib64 -L/lib -L/usr/lib64 -L/usr/lib -lifport -lifcore -limf -lsvml -lm -lipgo -lirc -lpthread -lirc_s -ldl
+#FCLIBS =  -L/turquoise/usr/projects/hpcsoft/toss2/common/intel/2015.5.223/composer_xe_2015.5.223/compiler/lib/intel64 -L/var/lib/perceus/vnfs/fe/rootfs/usr/bin/../lib/gcc/x86_64-redhat-linux/4.4.7/ -L/var/lib/perceus/vnfs/fe/rootfs/usr/bin/../lib/gcc/ -L/usr/lib/gcc/x86_64-redhat-linux/4.4.7/ -L/var/lib/perceus/vnfs/fe/rootfs/usr/bin/../lib/gcc/x86_64-redhat-linux/4.4.7/../../../../lib64 -L/var/lib/perceus/vnfs/fe/rootfs/usr/bin/../lib/gcc/x86_64-redhat-linux/4.4.7/../../../../lib64/ -L/lib/../lib64 -L/lib/../lib64/ -L/usr/lib/../lib64 -L/usr/lib/../lib64/ -L/var/lib/perceus/vnfs/fe/rootfs/usr/bin/../lib/gcc/x86_64-redhat-linux/4.4.7/../../../ -L/lib64 -L/lib/ -L/usr/lib64 -L/usr/lib -lifport -lifcore -limf -lsvml -lm -lipgo -lirc -lpthread -lirc_s -ldl
 #PYTHON = 
 #PYTHON_CFLAGS = $(PYTHON_EGG_CFLAGS) $(PYTHON_CPPFLAGS)
 #PYTHON_CPPFLAGS = $(PYTHON_EGG_CPPFLAGS) -I

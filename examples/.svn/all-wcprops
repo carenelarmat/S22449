@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/cig/!svn/ver/22419/seismo/3D/SPECFEM3D/trunk/examples
+END
+view_all_parameter_files_to_modify_them.csh
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/view_all_parameter_files_to_modify_them.csh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/cig/!svn/ver/22419/seismo/3D/SPECFEM3D/trunk/examples/README
+END
+homogeneous_halfspace
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cig/!svn/ver/22029/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace
+END

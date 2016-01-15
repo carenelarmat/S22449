@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_absorbing_Stacey_5sides
+END
+slices.txt
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/cig/!svn/ver/21767/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_absorbing_Stacey_5sides/slices.txt
+END
+boundary_definition.py
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_absorbing_Stacey_5sides/boundary_definition.py
+END
+plotall_comparison_seismograms.gnu
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/cig/!svn/ver/21853/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_absorbing_Stacey_5sides/plotall_comparison_seismograms.gnu
+END
+HOWTO_run_this_example.txt
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/cig/!svn/ver/21767/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_absorbing_Stacey_5sides/HOWTO_run_this_example.txt
+END
+this_regular_mesh_contains_36x36x16_elements.txt
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/cig/!svn/ver/21767/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_absorbing_Stacey_5sides/this_regular_mesh_contains_36x36x16_elements.txt
+END
+block_mesh-anisotropic.py
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/cig/!svn/ver/21767/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_absorbing_Stacey_5sides/block_mesh-anisotropic.py
+END
+process.sh
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/cig/!svn/ver/22407/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_absorbing_Stacey_5sides/process.sh
+END
+cubit2specfem3d.py
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/cig/!svn/ver/22418/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_absorbing_Stacey_5sides/cubit2specfem3d.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/cig/!svn/ver/22029/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_absorbing_Stacey_5sides/README
+END
+README_kernel
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/cig/!svn/ver/21767/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_absorbing_Stacey_5sides/README_kernel
+END
+block_mesh.py
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/cig/!svn/ver/22090/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_absorbing_Stacey_5sides/block_mesh.py
+END
+picture_of_this_homogeneous_regular_mesh.png
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/cig/!svn/ver/21767/seismo/3D/SPECFEM3D/trunk/examples/homogeneous_halfspace_HEX8_elastic_absorbing_Stacey_5sides/picture_of_this_homogeneous_regular_mesh.png
+END

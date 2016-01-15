@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cig/!svn/ver/20472/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/opendx_AVS
+END
+extract_shakemap_GMT.f90
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/opendx_AVS/extract_shakemap_GMT.f90
+END
+create_highres_shakemaps_AVS_DX.f90
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cig/!svn/ver/17496/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/opendx_AVS/create_highres_shakemaps_AVS_DX.f90
+END
+combine_AVS_DX.f90
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cig/!svn/ver/20472/seismo/3D/SPECFEM3D/trunk/utils/unused_routines/opendx_AVS/combine_AVS_DX.f90
+END

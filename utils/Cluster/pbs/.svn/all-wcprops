@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cig/!svn/ver/22029/seismo/3D/SPECFEM3D/trunk/utils/Cluster/pbs
+END
+go_solver_pbs.bash
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cig/!svn/ver/21193/seismo/3D/SPECFEM3D/trunk/utils/Cluster/pbs/go_solver_pbs.bash
+END
+go_decomposer_pbs.bash
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cig/!svn/ver/22029/seismo/3D/SPECFEM3D/trunk/utils/Cluster/pbs/go_decomposer_pbs.bash
+END
+valgrind_go_solver_pbs.bash
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cig/!svn/ver/21193/seismo/3D/SPECFEM3D/trunk/utils/Cluster/pbs/valgrind_go_solver_pbs.bash
+END
+go_generate_databases_pbs.bash
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cig/!svn/ver/21193/seismo/3D/SPECFEM3D/trunk/utils/Cluster/pbs/go_generate_databases_pbs.bash
+END
+go_mesher_pbs.bash
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cig/!svn/ver/21193/seismo/3D/SPECFEM3D/trunk/utils/Cluster/pbs/go_mesher_pbs.bash
+END

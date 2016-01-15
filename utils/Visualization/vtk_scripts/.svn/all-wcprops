@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cig/!svn/ver/18133/seismo/3D/SPECFEM3D/trunk/utils/Visualization/vtk_scripts
+END
+coastfile_mod_utm.vtk
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/Visualization/vtk_scripts/coastfile_mod_utm.vtk
+END
+borderfile_mod_utm.vtk
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/Visualization/vtk_scripts/borderfile_mod_utm.vtk
+END
+view_model.pl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/Visualization/vtk_scripts/view_model.pl
+END
+xc_ew.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/Visualization/vtk_scripts/xc_ew.tcl
+END
+NA_PA_boundary_utm.vtk
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/Visualization/vtk_scripts/NA_PA_boundary_utm.vtk
+END
+convert_xyz_to_vtk.pl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cig/!svn/ver/18133/seismo/3D/SPECFEM3D/trunk/utils/Visualization/vtk_scripts/convert_xyz_to_vtk.pl
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cig/!svn/ver/17796/seismo/3D/SPECFEM3D/trunk/utils/Visualization/vtk_scripts/README
+END
+commands.bash
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/Visualization/vtk_scripts/commands.bash
+END
+split_sr_vtk.pl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cig/!svn/ver/18133/seismo/3D/SPECFEM3D/trunk/utils/Visualization/vtk_scripts/split_sr_vtk.pl
+END
+xc_hr_multi.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cig/!svn/ver/17294/seismo/3D/SPECFEM3D/trunk/utils/Visualization/vtk_scripts/xc_hr_multi.tcl
+END
