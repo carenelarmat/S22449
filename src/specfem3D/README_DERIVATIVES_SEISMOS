@@ -1,0 +1,37 @@
+C. Larmat August 2014 
+DERIVATIVES_SEISMOS is a logical in specfem3D_par.f90 to switch on the additional outputs
+
+2 steps for the seismograms: first an interpolation to the receiver points (remember that the code is solving the wavefield on its grid points), then gathering of information and writing on disk.
+
+Interpolation:
+compute_interpolated_dva.f90
+ 2 subroutines one elastic domains, the other for acoustic domains.
+
+ subroutine compute_interpolated_dva_div(displ,veloc,accel,NGLOB_AB, &
+ subroutine compute_interpolated_dva_ac_div(displ_element,veloc_element,&
+ 
+ NB: all the global arrays defined on the mesh are passed by arguments - they could be passed through the module specfem3D_par.f90 but are not. 
+
+Outputs:
+write_seismograms.f90
+  a series of subroutines *_4 were written to write 5 columns files instead of 2. For the moment, they write t,vx,vy,vz,div
+
+  subroutine write_one_seismogram_4(one_seismogram,irec, &
+  	Manages the writing of one file
+  subroutine write_seismograms_to_file_4(seismograms_der)
+        Manages communication between nodes and master and call the previous subroutine; creates the seismograms for forward modeling
+  subroutine write_adj_seismograms_to_file_4(myrank,seismograms,number_receiver_global, &
+        Manages communication between nodes and master and call the previous subroutine; creates the seismograms for reverse modeling 
+
+prepare_timerun.F90
+  allocate seismograms_der which is an array used in the writing subroutines. 
+
+
+NB1: The additional subroutines computes the full deformation tensor, so any component can be used if needed. For example, I was thinking of writing the curl for the elastic domain but I am missing the formula.
+NB2: the coordinates of the mesh points are in xstore,ystore and zstore which are 1 dimensional arrays to be used with the function iglob -- see for example compute_interpolated_dva.f90
+
+
+Tests:
+August 7: intel.12.1.2 
+        elastic : runs
+	acoustic: runs,

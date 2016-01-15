@@ -1,0 +1,4 @@
+default: 
+	make -f Makefile ../../lib/libgendatabases.a
+	mpif90  -I../shared/ -o xget_tomo get_tomo.f90 ../../obj/spec/parallel.o ../../lib/libgendatabases.a
+	cp xget_tomo ../../bin
